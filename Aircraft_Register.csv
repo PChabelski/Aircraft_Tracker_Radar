@@ -1,0 +1,571 @@
+hexcode,airline,registration,aircraft,aircraft_thumbnail,latitude,longitude,altitude,distance,first_seen_time
+a82903,Delta Connection,N625CA,CRJ 700,https://hexdb.io/static/aircraft-images/N625CA-thumb.jpg,42.546697,-80.09838,29000,127.1275677864419,Sat May 17 10:59:47 2025
+c0712e,WestJet,C-GQWJ,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.824521,-79.635707,25100,94.96792719006035,Sat May 17 11:08:36 2025
+ab839c,Desert Jet LLC,N841AM,Citation CJ3,https://hexdb.io/static/aircraft-images/N841AM-thumb.jpg,43.187256,-81.029598,43000,140.30744766778074,Sat May 17 11:08:36 2025
+c06362,Porter Airlines,C-GLQN,DHC-8 402,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.693085,-79.229502,11100,15.21475558755494,Sat May 17 17:19:13 2025
+c067ae,Air Canada,C-GNGV,A220 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.047041,-81.439558,23000,164.51371745336,Sat May 17 18:12:13 2025
+a81166,American Eagle,N619NN,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.87886,-79.907589,21850,93.71283826051167,Sat May 17 12:10:59 2025
+c0617c,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.676056,-79.850421,9075,42.44679909144794,Sat May 17 11:01:57 2025
+acd68a,Delta Connection,N926XJ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.283539,-80.090145,31000,152.17868639149054,Sat May 17 11:00:21 2025
+a7f308,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.366063,-80.035989,21150,64.54925605679892,Sat May 17 12:23:26 2025
+c04671,Air Canada Rouge,C-GARO,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.852036,-79.657841,23125,92.25280749397844,Sat May 17 11:11:41 2025
+c060c9,United Express,N764YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.296514,-79.752633,14700,51.12552227884343,Sat May 17 11:08:36 2025
+adecb6,Delta Air Lines,N997AT,717 2BD,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.29892,-80.073416,30950,150.74607104902924,Sat May 17 11:01:57 2025
+aa52a0,United Express,N764YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.901891,-79.556972,23725,85.90124438806649,Sat May 17 11:14:15 2025
+aa5dc5,United Express,N767YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.348709,-79.384333,12100,35.52786369825823,Sat May 17 11:07:03 2025
+899121,EVA Air,B-16781,777 F,https://hexdb.io/static/aircraft-images/B-16781-thumb.jpg,43.029723,-81.227548,35000,150.1196965147831,Sat May 17 11:08:35 2025
+c05eac,Air Canada,C-GJWD,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.185928,-80.91865,29250,132.21515191562472,Sat May 17 11:08:36 2025
+c044e5,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.510608,-79.922987,2475,50.62484816553184,Sat May 17 11:11:09 2025
+c07793,Skyservice Business Aviation,C-GTHI,Falcon 900DX,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.625685,-79.694105,7150,28.154009086464608,Sat May 17 11:11:10 2025
+ab8148,NetJets,N840QS,Citation Longitude,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.602783,-80.166113,40850,122.7302888232571,Sat May 17 11:11:41 2025
+abdf3f,United Express,N864RW,EMB-170 SE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.479874,-79.863115,31000,132.67829174576823,Sat May 17 11:12:42 2025
+c03c80,Hamilton Jetport Limited,C-FWXR,G150,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.787931,-80.022689,18450,104.38804125514856,Sat May 17 11:13:13 2025
+aa617c,United Express,N768YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.188812,-81.015547,23100,139.30754597549048,Sat May 17 11:29:40 2025
+c03a1e,Delta Air Lines,N542DE,A321 271NXSL,https://hexdb.io/static/aircraft-images/N542DE-thumb.jpg,43.079394,-80.785871,30000,122.76547898355938,Sat May 17 12:06:25 2025
+c00926,WestJet,C-FDMB,737NG 8CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.677933,-79.8448,7150,41.945014597912575,Sat May 17 11:17:20 2025
+c00899,Air Canada,C-FDGQ,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.727355,-79.521266,2500,13.798628043661951,Sat May 17 11:16:19 2025
+c0193b,Air Canada Rouge,C-FJOK,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.852126,-79.623871,20375,91.89136282182965,Sat May 17 11:25:35 2025
+a4380d,Nxt Jet,N371FP,GIV SP,https://hexdb.io/static/aircraft-images/N371FP-thumb.jpg,43.456924,-80.860461,39000,131.41306520282345,Sat May 17 11:17:20 2025
+040198,Ethiopian Airlines,ET-AYA,A350 941,https://hexdb.io/static/aircraft-images/ET-AYA-thumb.jpg,43.625061,-79.730785,4450,31.477521472111164,Sat May 17 11:17:52 2025
+a6b470,Delta Air Lines,N531DA,A321 271NXSL,https://hexdb.io/static/aircraft-images/N531DA-thumb.jpg,42.667282,-80.137586,32000,116.8496014610198,Sat May 17 11:20:57 2025
+aa781f,Kalitta Air,N774CK,777 F,https://hexdb.io/static/aircraft-images/N774CK-thumb.jpg,43.22406,-80.781832,12450,122.50715760169959,Sat May 17 11:17:52 2025
+c038c8,Global Jet Leasing LLC,N800NJ,125 800XP,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.641541,-79.725037,4250,30.818943759540154,Sat May 17 11:20:26 2025
+c062b8,Air Canada Express,C-GLJZ,CRJ 900,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.926796,-81.733573,30525,176.06301472900736,Sat May 17 11:18:54 2025
+ab5c12,Delta Air Lines,N531DA,A321 271NXSL,https://hexdb.io/static/aircraft-images/N531DA-thumb.jpg,42.667282,-80.137586,32000,116.8496014610198,Sat May 17 11:21:30 2025
+aae312,Global Jet Leasing LLC,N800NJ,125 800XP,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.773483,-79.852378,26725,102.83964799824416,Sat May 17 11:31:47 2025
+c0814b,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.415085,-79.843395,2500,48.33805391666946,Sat May 17 11:20:26 2025
+c029dd,Air Canada,C-FPWE,A320 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.597687,-79.763106,6100,34.7830102025704,Sat May 17 11:22:31 2025
+a37e80,Delta Connection,N324PQ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.178923,-80.357928,15475,93.64487753465994,Sat May 17 11:20:58 2025
+a456a9,NetJets,N379QS,Phenom 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.445586,-80.184482,41000,136.68182959926773,Sat May 17 11:21:29 2025
+c00821,Air Canada,C-FDCA,A320 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.725539,-79.589473,1875,19.539269590065423,Sat May 17 19:43:07 2025
+a15e70,AeroMexico,N188AM,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.053511,-80.542668,24000,108.53785968667225,Sat May 17 11:34:21 2025
+c027de,Air Bravo Corp,C-FPCN,PC-12 45,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.562281,-79.368896,3550,11.936364243136127,Sat May 17 11:28:07 2025
+c03c0c,Flightpath Charter Airways,C-FWTF,Phenom 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.650513,-79.697507,5000,28.260673620065706,Sat May 17 11:24:34 2025
+c07bd4,Air Creebec,C-GUXF,DHC-8 102,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.53663,-80.321568,5500,84.89018099896131,Sat May 17 11:25:35 2025
+c07ee4,WestJet,C-GWBJ,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.867188,-79.648068,22475,90.53178320099087,Sat May 17 11:34:53 2025
+c053b4,WestJet,C-GWBJ,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.5762,-79.745767,5975,33.75096061116241,Sat May 17 11:29:40 2025
+c055c1,Air Canada Express,C-GGMI,DHC-8 402 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.630188,-79.392253,725,4.216009567701077,Sat May 17 11:28:39 2025
+a48a83,Delta Air Lines,N392DA,737NG 832/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.918882,-81.752734,31000,176.62699144156764,Sat May 17 11:29:40 2025
+a1449d,Aviation Advisor Inc,N181CH,Citation CJ4,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.939168,-80.325492,40975,93.36489272617794,Sat May 17 11:30:13 2025
+c05bd2,Air Canada,C-GIUB,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.459259,-80.415834,14925,93.17713428609852,Sat May 17 11:30:44 2025
+a6bfe8,United Express,N534GJ,CRJ 700 702,https://hexdb.io/static/aircraft-images/N534GJ-thumb.jpg,42.672481,-81.373752,36000,146.08587542198,Sat May 17 11:41:01 2025
+a36b2d,JetBlue Airways,N3194J,A220 300,https://hexdb.io/static/aircraft-images/N3194J-thumb.jpg,43.584346,-81.572767,31250,198.38297919883576,Sat May 17 11:47:10 2025
+ad6d03,Southwest Airlines,N964WN,737NG 7H4/W,https://hexdb.io/static/aircraft-images/N964WN-thumb.jpg,42.439087,-79.9148,37000,136.94794101623782,Sat May 17 11:32:18 2025
+abbb2c,JetBlue Airways,N3194J,A220 300,https://hexdb.io/static/aircraft-images/N3194J-thumb.jpg,43.533829,-81.291738,29800,171.33816297716047,Sat May 17 11:44:06 2025
+a12797,United Airlines,N17362,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.564061,-80.196363,36000,126.34035394090097,Sat May 17 11:34:53 2025
+a64924,Delta Air Lines,N504DN,A350 941,https://hexdb.io/static/aircraft-images/N504DN-thumb.jpg,42.999092,-80.571769,30625,111.59664595958199,Sat May 17 11:43:35 2025
+a414fb,Delta Air Lines,N362NW,A320 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.272597,-80.107834,29000,153.1542273161912,Sat May 17 11:50:14 2025
+aa92fc,United Airlines,N78005,777 224ER,https://hexdb.io/static/aircraft-images/N78005-thumb.jpg,43.882507,-80.137663,31925,74.38551872791359,Sat May 17 11:41:01 2025
+a373da,Delta Air Lines,N321US,A320 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.629471,-80.189584,34000,120.74777364573774,Sat May 17 16:51:04 2025
+c05ef7,American Eagle,N750BD,EMB-170 SE,https://hexdb.io/static/aircraft-images/N750BD-thumb.jpg,43.527367,-79.816328,7475,41.22127409697351,Sat May 17 11:44:06 2025
+a369ee,American Airlines,N319TE,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.314285,-79.359741,11775,39.43950537477328,Sat May 17 11:41:01 2025
+ab1c04,American Airlines,N815AW,A319 132,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.441513,-80.218485,35000,137.10287246002116,Sat May 17 18:08:38 2025
+adbef0,American Airlines,N985NN,737NG 823/W,https://hexdb.io/static/aircraft-images/N985NN-thumb.jpg,43.233017,-80.835506,20425,126.5458331839547,Sat May 17 11:41:01 2025
+aa1a26,American Eagle,N750BD,EMB-170 SE,https://hexdb.io/static/aircraft-images/N750BD-thumb.jpg,43.168123,-81.112911,29250,145.96912853707664,Sat May 17 11:59:42 2025
+a6dfe7,Air Charter Express,N542FR,2000,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.07432,-81.134622,31000,145.26988508153278,Sat May 17 11:43:35 2025
+a7d725,Delta Connection,N604LR,CRJ 900 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.246765,-80.767013,19000,121.49021071092807,Sat May 17 11:44:06 2025
+ab59f4,Delta Connection,N830SK,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.519464,-80.004741,19075,129.1738979532207,Sat May 17 11:46:08 2025
+c07c7a,Air Canada,C-GVDP,A220 300,https://hexdb.io/static/aircraft-images/C-GVDP-thumb.jpg,42.946381,-80.910219,29125,130.2785665994619,Sat May 17 12:01:45 2025
+a3e383,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.908082,-79.757865,23000,87.86272961313452,Sat May 17 11:47:10 2025
+c04738,Prime Air,C-GAZF,767 338ERBDSF/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.559255,-80.899527,18125,136.8071035978152,Sat May 17 11:48:11 2025
+a519b8,Delta Air Lines,N428DX,A330 941N,https://hexdb.io/static/aircraft-images/N428DX-thumb.jpg,42.822147,-80.707463,26150,122.6578788784678,Sat May 17 11:59:42 2025
+c0635f,Delta Air Lines,N428DX,A330 941N,https://hexdb.io/static/aircraft-images/N428DX-thumb.jpg,43.560654,-79.508057,37675,15.957362363471914,Sat May 17 11:50:14 2025
+c07b09,Air Canada,C-GUPK,A220 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.887553,-81.942967,35000,185.05280284106684,Sat May 17 11:51:22 2025
+a53ee2,United Airlines,N437UA,A320 232,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.384064,-80.979476,29000,140.63514644941745,Sat May 17 11:51:53 2025
+a227e5,Pacific Intl Vegetable Marketing Inc,N238TD,Citation CJ4,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.823951,-80.295933,45000,86.81798141401967,Sat May 17 11:56:34 2025
+ab538b,Delta Air Lines,N829NW,A330 302,https://hexdb.io/static/aircraft-images/N829NW-thumb.jpg,43.003326,-80.566577,27775,111.20598453515322,Sat May 17 11:59:42 2025
+c01e11,Flair Airlines,C-FLKA,737MAX 8,https://hexdb.io/static/aircraft-images/C-FLKA-thumb.jpg,43.361481,-80.374699,5075,90.59167148755041,Sat May 17 19:19:39 2025
+c05edb,Air Canada,C-GJXY,A220 300,https://hexdb.io/static/aircraft-images/C-GJXY-thumb.jpg,43.304381,-80.645338,20800,112.26452601349823,Sat May 17 11:52:27 2025
+0c4183,Arajet,HI1027,737MAX 8,https://hexdb.io/static/aircraft-images/HI1027-thumb.jpg,42.897491,-79.885233,20350,91.47472758154201,Sat May 17 12:03:18 2025
+c03a5a,WestJet,C-FWCN,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.926377,-81.734488,23000,176.08764613615838,Sat May 17 20:45:50 2025
+ac148f,FedEx Express,N878FD,777 F,https://hexdb.io/static/aircraft-images/N878FD-thumb.jpg,43.936002,-80.173841,39000,79.79096079958157,Sat May 17 11:56:33 2025
+c05ee5,Air Canada,C-GJYI,A220 300,https://hexdb.io/static/aircraft-images/C-GJYI-thumb.jpg,43.446716,-82.250487,38000,252.05208857395115,Sat May 17 20:28:26 2025
+c017ed,Air Canada Express,C-FJBO,EMB-175 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.483282,-81.800603,33725,214.58068243646164,Sat May 17 17:19:13 2025
+a6dfaa,Delta Air Lines,N542DE,A321 271NXSL,https://hexdb.io/static/aircraft-images/N542DE-thumb.jpg,43.101883,-81.317543,30025,158.4876461167163,Sat May 17 12:10:59 2025
+c060b1,Porter Airlines,C-GKQA,DHC-8 402 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.834946,-79.365554,13525,18.71463605283059,Sat May 17 21:12:01 2025
+c06175,Philippine Airlines,RP-C3501,A350 941,https://hexdb.io/static/aircraft-images/RP-C3501-thumb.jpg,43.914495,-79.611577,41000,34.43297782418085,Sat May 17 22:10:35 2025
+a99087,Thrive Aviation,N715VM,GVII-G600,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.001978,-80.625458,20350,114.37728478967509,Sat May 17 12:06:25 2025
+ab2115,NetJets,N816QS,Citation Longitude,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.371414,-79.398768,11525,33.00454493805456,Sat May 17 12:01:45 2025
+c02dcf,Air Canada Express,C-FRJA,CRJ 900 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.934244,-80.964857,28650,133.15285241526172,Sat May 17 19:04:17 2025
+a9bf4b,Delta Air Lines,N727TW,757 231/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.267731,-81.236487,36000,158.13232575875205,Sat May 17 12:16:28 2025
+aa8075,American Eagle,N776MS,EMB-170 SE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.076385,-81.299147,30000,156.31497161528043,Sat May 17 12:19:31 2025
+c06ce2,Execaire Inc,C-GPGB,Challenger 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.358734,-79.389954,12150,34.40837506189006,Sat May 17 12:06:24 2025
+899123,EVA Air,B-16782,777 F,https://hexdb.io/static/aircraft-images/B-16782-thumb.jpg,43.731079,-79.515913,2625,13.57710320288997,Sat May 17 12:06:25 2025
+c040c5,Air Canada Rouge,C-FYNS,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.571045,-79.770707,6500,36.043410690568855,Sat May 17 20:52:30 2025
+040088,Ethiopian Airlines,ET-ARF,787 8,https://hexdb.io/static/aircraft-images/ET-ARF-thumb.jpg,42.922979,-81.82591,34975,181.21024225544906,Sat May 17 12:09:01 2025
+c02e8f,Air Canada Express,C-FRQK,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FRQK-thumb.jpg,43.684662,-79.889576,8750,46.153065474075945,Sat May 17 18:38:58 2025
+c04adc,Cargojet Airways,C-GCJB,757 2G5PCF/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.153552,-80.021406,6250,75.35793505643325,Sat May 17 12:09:36 2025
+780204,Cathay Pacific Airways,B-KPD,777 367ER,https://hexdb.io/static/aircraft-images/B-KPD-thumb.jpg,42.340331,-79.903628,37000,147.1177554999921,Sat May 17 12:09:36 2025
+ace965,American Eagle,N931AE,ERJ-145 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.60512,-80.123163,33000,122.07393046141996,Sat May 17 12:10:58 2025
+c066dd,Air Canada,C-GMYU,A220 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.680908,-79.86243,7950,43.60333496046746,Sat May 17 12:12:35 2025
+c07c7b,Air Canada,C-GVDQ,A220 300,https://hexdb.io/static/aircraft-images/C-GVDQ-thumb.jpg,43.682246,-79.849418,7550,42.41517074700645,Sat May 17 21:41:27 2025
+c02153,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.248146,-80.158343,2600,78.06220583745038,Sat May 17 12:12:03 2025
+c010e4,Air Canada Express,C-GJAN,CRJ 900 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.027116,-80.540902,30500,109.16093844197829,Sat May 17 20:52:30 2025
+c055d6,Delta Connection,N910XJ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.81926,-79.469474,30000,94.52949838571165,Sat May 17 18:19:54 2025
+c08866,Porter Airlines,C-GZQZ,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.731171,-79.515849,2625,13.577403832004336,Sat May 17 12:19:31 2025
+ab398a,Delta Air Lines,N822NW,A330 302,https://hexdb.io/static/aircraft-images/N822NW-thumb.jpg,43.436371,-79.74752,37275,40.4518354005021,Sat May 17 12:23:26 2025
+c053f6,Air Canada,C-GFUR,A330 343X,https://hexdb.io/static/aircraft-images/C-GFUR-thumb.jpg,43.570288,-79.754987,5675,34.70870072225712,Sat May 17 17:07:22 2025
+c02e9b,Air Canada Express,C-FRQW,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FRQW-thumb.jpg,42.873001,-79.613257,19075,89.54224154194436,Sat May 17 21:30:59 2025
+a4fddb,American Eagle,N420YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.603154,-79.756492,6025,34.09798325652308,Sat May 17 16:33:28 2025
+c0405a,United Airlines,N77578,737MAX 9,https://hexdb.io/static/aircraft-images/N77578-thumb.jpg,42.290909,-79.88696,28025,152.3153694089752,Sat May 17 21:17:40 2025
+ad3d84,NetJets,N952QS,Citation Latitude,https://hexdb.io/static/aircraft-images/N952QS-thumb.jpg,42.605958,-79.969993,41000,120.56803271183284,Sat May 17 12:23:24 2025
+c05ed8,Air Canada,C-GJXV,A220 300,https://hexdb.io/static/aircraft-images/C-GJXV-thumb.jpg,43.336121,-79.375774,14425,36.945955427838356,Sun May 18 06:53:52 2025
+c0404f,Sunwing Airlines,C-GMXH,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.790741,-79.883527,22575,101.62059081583999,Sat May 17 18:25:06 2025
+c01fd9,Kivalliq Air Ninavut Lifeline,C-FMBO,PC-24,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.72522,-79.590007,1950,19.573941576229636,Sat May 17 12:23:26 2025
+a013e8,Delta Air Lines,N104DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.277023,-82.021626,34000,221.46068075481696,Sat May 17 16:47:27 2025
+c00b80,Delta Air Lines,N104DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.892548,-80.392392,34025,107.67348298415747,Sat May 17 16:35:39 2025
+a4324f,Corporate,N37JW,208 B EX,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.591097,-79.349801,2675,9.347083362484723,Sat May 17 16:33:30 2025
+a7dec2,American Eagle,N606NN,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.775408,-79.944444,23875,104.08873747505625,Sat May 17 16:39:44 2025
+c01732,Air Canada Express,C-FJBO,EMB-175 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.58444,-79.910627,11350,48.10551965091793,Sat May 17 20:49:56 2025
+a9d86c,Air Canada,C-FZUB,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.377189,-80.589425,17750,107.78508067278725,Sat May 17 16:35:08 2025
+ab6afa,American Airlines,N835AN,787 9,https://hexdb.io/static/aircraft-images/N835AN-thumb.jpg,42.423427,-79.773453,39000,138.4986699761161,Sat May 17 16:34:35 2025
+a446aa,Delta Connection,N910XJ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.724319,-80.521358,30000,120.57566824829665,Sat May 17 18:27:09 2025
+c07b0a,Air Canada,C-GUPL,A220 300,https://hexdb.io/static/aircraft-images/C-GUPL-thumb.jpg,43.68313,-79.910954,7650,48.11141402883574,Sat May 17 18:52:53 2025
+c07973,Delta Air Lines,N104DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.273727,-82.007127,34025,220.0623480523227,Sat May 17 16:47:27 2025
+c05515,Air Canada,C-GTZU,A220 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.595627,-79.731488,9575,32.02803621988262,Sat May 17 16:35:39 2025
+c058bf,Air Canada,C-GHPU,787 8,https://hexdb.io/static/aircraft-images/C-GHPU-thumb.jpg,43.577271,-79.747336,6450,33.857929581912,Sat May 17 16:35:39 2025
+c052d7,WestJet,C-GFJQ,737MAX 8,https://hexdb.io/static/aircraft-images/C-GFJQ-thumb.jpg,43.463124,-80.800389,16950,126.30737679599255,Sat May 17 16:35:07 2025
+c0440e,Air Canada,C-FZUB,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.377189,-80.589425,17750,107.78508067278725,Sat May 17 16:35:08 2025
+ac13b3,Southwest Airlines,N8777Q,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.317825,-80.325477,37000,147.73460476674506,Sat May 17 16:35:39 2025
+c00f63,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.867691,-79.668508,22375,90.71595029547835,Sat May 17 16:46:57 2025
+a34c0f,Global 5500 LLC,N311RR,Global 5500,https://hexdb.io/static/aircraft-images/N311RR-thumb.jpg,42.109758,-80.039233,43000,170.07701465968017,Sat May 17 16:37:11 2025
+c05512,Air Canada Express,C-GGFP,DHC-8 402 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.351492,-80.924966,15000,135.0745182683406,Sat May 17 16:37:42 2025
+a047db,United Express,N117SY,EMB-175 LR,https://hexdb.io/static/aircraft-images/N117SY-thumb.jpg,42.553711,-80.170857,27000,127.0245588600655,Sat May 17 16:37:42 2025
+ac2706,United Airlines,N882UA,A319 132,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.688065,-80.107923,11450,66.38441281902902,Sat May 17 16:43:22 2025
+c05f08,Air Canada Express,C-GJZR,DHC-8 402,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.727541,-79.521136,2450,13.798164722994096,Sat May 17 16:40:48 2025
+a89c29,Flexjet,N654FX,G650 ER,https://hexdb.io/static/aircraft-images/N654FX-thumb.jpg,42.329531,-80.121375,45000,147.5677330429624,Sat May 17 16:40:15 2025
+a51425,American Eagle,N426YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.511551,-80.219234,31825,131.0019898449275,Sat May 17 16:41:19 2025
+acc95c,American Airlines,N923AN,737NG 823/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.486179,-80.251358,37000,133.32899084677842,Sat May 17 16:40:17 2025
+a16e7d,United Airlines,N19117,757 224/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.481431,-80.238647,38000,133.68173670200775,Sat May 17 16:40:48 2025
+aae391,N800TL LLC,N800TL,125 800XP,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.736072,-82.324134,35000,187.87523010537328,Sat May 17 16:41:18 2025
+ab7b63,Delta Connection,N839SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N839SK-thumb.jpg,42.444031,-80.028035,19350,136.58363297764527,Sat May 17 16:41:19 2025
+aa2e6f,Porter Airlines,C-GKQU,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.541794,-80.071553,11175,62.820378310663216,Sat May 17 16:45:55 2025
+c060c5,Porter Airlines,C-GKQU,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.431934,-80.445818,13675,95.79522365313757,Sat May 17 16:42:51 2025
+adbdc1,Alaska Airlines,N985AK,737MAX 9,https://hexdb.io/static/aircraft-images/N985AK-thumb.jpg,42.780991,-82.285163,32000,191.84389687925548,Sat May 17 17:00:07 2025
+c058b4,Air Canada Rouge,C-GHPJ,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.734161,-79.859557,20600,106.8360582429531,Sat May 17 16:54:10 2025
+a4f414,American Eagle,N418YX,EMB-175 LR,https://hexdb.io/static/aircraft-images/N418YX-thumb.jpg,42.459924,-80.236667,24000,135.53053494312115,Sat May 17 16:44:54 2025
+c05f09,Air Canada Express,C-GJZS,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.071075,-80.599791,8700,111.4561253579677,Sat May 17 21:12:01 2025
+c048cc,Novajet,C-GBOT,Challenger 650,https://hexdb.io/static/aircraft-images/C-GBOT-thumb.jpg,43.215094,-79.345943,13675,50.5149971077888,Sat May 17 16:45:55 2025
+c0635c,Porter Airlines,C-GLQH,DHC-8 402,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.698532,-79.227458,9050,15.533644854784384,Sat May 17 16:48:59 2025
+c03f37,Delta Air Lines,N104DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.273727,-82.007127,34025,220.0623480523227,Sat May 17 16:47:27 2025
+b1ad71,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.517685,-80.197012,39000,130.34361907157086,Sat May 17 16:48:28 2025
+a0f3a5,Washington Corp,N160WC,Challenger 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.537899,-79.937865,43000,127.04448548454533,Sat May 17 16:48:59 2025
+c06e87,Iberia,EC-MAA,A330 302,https://hexdb.io/static/aircraft-images/EC-MAA-thumb.jpg,43.507278,-80.256788,38000,79.28007971229779,Sat May 17 18:25:06 2025
+c060b5,Porter Airlines,C-GKQE,DHC-8 402 NG,https://hexdb.io/static/aircraft-images/C-GKQE-thumb.jpg,43.836148,-79.383937,14100,18.70627084893786,Sat May 17 16:56:45 2025
+780d9e,China Eastern Airlines,B-2022,777 39PER,https://hexdb.io/static/aircraft-images/B-2022-thumb.jpg,43.676613,-79.827837,7700,40.366064628898194,Sat May 17 16:52:38 2025
+c08851,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.5843,-79.908927,11600,47.95569647054483,Sat May 17 16:58:49 2025
+a46ce1,United Airlines,N38424,737NG 924ER/W,https://hexdb.io/static/aircraft-images/N38424-thumb.jpg,42.629048,-80.184355,32000,120.7164508787688,Sat May 17 16:54:10 2025
+4b187a,Swiss International Air Lines,HB-JHA,A330 343E,https://hexdb.io/static/aircraft-images/HB-JHA-thumb.jpg,43.707058,-78.940103,15450,42.06993620139569,Sat May 17 17:01:40 2025
+a16d51,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.464386,-80.914115,22000,136.20346204979506,Sat May 17 16:52:06 2025
+c06aa4,Air Canada Express,C-GOJZ,CRJ 900,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.938782,-81.705195,23000,175.2013971675756,Sat May 17 16:52:37 2025
+780aec,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.460238,-80.555878,19000,105.16777011944642,Sat May 17 16:54:10 2025
+a4c170,American Eagle,N405YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.566345,-80.177661,30000,125.98238466248891,Sat May 17 16:54:10 2025
+c058ae,Air Canada Rouge,C-GHPD,A321 211,https://hexdb.io/static/aircraft-images/C-GHPD-thumb.jpg,42.357695,-79.91206,24525,145.30468225959132,Sat May 17 17:08:55 2025
+ab6fbf,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.092161,-80.268732,35000,169.00157111117983,Sat May 17 17:02:11 2025
+c06a7d,Air Transat,C-GOIM,A321 271NXSL,https://hexdb.io/static/aircraft-images/C-GOIM-thumb.jpg,43.712132,-79.543435,2025,14.979629853957844,Sat May 17 16:56:45 2025
+a58672,United Airlines,N455UA,A320 232,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.559387,-80.236151,36025,127.08112909113295,Sat May 17 16:58:49 2025
+c050ae,Air Canada,C-GEOJ,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.67652,-79.90363,7400,47.36542385641409,Sat May 17 16:58:49 2025
+a44585,United Airlines,N37434,737NG 924ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.649246,-80.709686,32000,128.48171392545265,Sat May 17 17:01:08 2025
+c02fb4,Airsprint Inc,C-FSBR,Praetor 500,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.671219,-80.094577,30225,115.89724169202162,Sat May 17 17:09:56 2025
+aa39fd,Airsprint Inc,C-FSBR,Praetor 500,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.84581,-80.02039,26600,99.28131573878419,Sat May 17 17:08:24 2025
+aa9990,American Eagle,N782SM,EMB-170 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.545654,-80.176288,27000,127.76911252391653,Sat May 17 16:58:49 2025
+c05d56,American Airlines,N108NN,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.138387,-80.149415,35000,166.01661406741272,Sat May 17 21:25:53 2025
+c06b6a,WestJet,C-GORP,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.897096,-79.646824,19875,87.33539446735472,Sat May 17 19:20:10 2025
+c02de8,Latitude Air Ambulance,C-FRJZ,1125 Astra SP,https://hexdb.io/static/aircraft-images/C-FRJZ-thumb.jpg,43.183113,-81.113303,29250,146.35542366606896,Sat May 17 17:08:24 2025
+aac7b1,American Eagle,N794JH,EMB-170 SE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.495743,-81.717394,30000,207.79555719642337,Sat May 17 18:43:40 2025
+a78c8f,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.039185,-79.827846,34975,179.45865592535617,Sat May 17 17:04:49 2025
+484371,KLM Royal Dutch Airlines,PH-BQK,777 206ER,https://hexdb.io/static/aircraft-images/PH-BQK-thumb.jpg,43.586334,-79.772431,5575,35.83143944310337,Sat May 17 17:03:13 2025
+c0171a,Air Canada,C-FITL,777 333ER,https://hexdb.io/static/aircraft-images/C-FITL-thumb.jpg,43.882188,-79.054674,19925,39.67980173209756,Sat May 17 21:27:55 2025
+c00b8a,Air Canada Express,C-FEJP,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FEJP-thumb.jpg,43.347908,-79.383283,11750,35.618475521088904,Sat May 17 19:59:36 2025
+c058d5,Air Canada,C-GHQQ,787 8,https://hexdb.io/static/aircraft-images/C-GHQQ-thumb.jpg,43.727495,-79.52107,2450,13.790258113611275,Sat May 17 17:04:49 2025
+a39723,Delta Connection,N330PQ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.454788,-79.779219,34000,135.17009810070283,Sat May 17 17:06:21 2025
+a39b39,American Airlines,N331TK,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.452475,-80.037508,36000,135.77674056966978,Sat May 17 17:07:22 2025
+c07998,Air Transat,C-GUBF,A330 243,https://hexdb.io/static/aircraft-images/C-GUBF-thumb.jpg,43.583313,-79.757676,5050,34.605910977941974,Sat May 17 22:01:29 2025
+c0192e,Air Canada,C-FJNX,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.464381,-80.914699,18900,136.25414407849883,Sun May 18 06:49:48 2025
+c055cd,Air Canada Express,C-GGMU,DHC-8 402 NG,https://hexdb.io/static/aircraft-images/C-GGMU-thumb.jpg,43.695187,-79.697505,7950,28.55463117942603,Sat May 17 17:08:24 2025
+c0226c,WestJet,C-FNAX,737MAX 8,https://hexdb.io/static/aircraft-images/C-FNAX-thumb.jpg,43.60817,-79.754291,4775,33.81965651522147,Sat May 17 18:53:55 2025
+c05840,American Eagle,N794JH,EMB-170 SE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.595007,-79.806257,9200,38.66387128223964,Sat May 17 17:16:08 2025
+aa714e,Schnitzer Air LLC,N772JS,Challenger 300,https://hexdb.io/static/aircraft-images/N772JS-thumb.jpg,42.218948,-80.423542,41000,155.41912840948217,Sat May 17 17:09:56 2025
+4caeb3,Italia Trasporto Aereo,EI-TYD,A330 941N,https://hexdb.io/static/aircraft-images/EI-TYD-thumb.jpg,43.591644,-79.78412,5500,36.75688061802403,Sat May 17 17:12:29 2025
+48ae24,LOT Polish Airlines,SP-LSE,787 9,https://hexdb.io/static/aircraft-images/SP-LSE-thumb.jpg,43.680038,-79.858406,8125,43.222605703475466,Sat May 17 20:06:19 2025
+c06032,Airsprint Inc,C-FSBR,Praetor 500,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.579605,-79.644555,7300,25.022513049077556,Sat May 17 18:24:03 2025
+c062d1,Perimeter Aviation,C-GLKY,DHC-8 314Q,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.493408,-80.616526,8375,110.65129624762824,Sat May 17 17:13:31 2025
+c05eb7,Air Canada,C-FGKZ,A321 212,https://hexdb.io/static/aircraft-images/C-FGKZ-thumb.jpg,43.472855,-80.322833,15575,85.17859947876663,Sat May 17 17:17:42 2025
+c08497,Air Canada Rouge,C-GYFM,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.567029,-79.770486,5775,36.13190657751154,Sat May 17 17:17:10 2025
+a98386,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.629013,-80.183653,32000,120.71047426588524,Sat May 17 17:17:42 2025
+a06e20,Atlantic Air Charter,N127EJ,400 A,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.483945,-80.019432,12800,132.67849897908002,Sat May 17 17:15:05 2025
+c010f6,Air Canada,C-FGKZ,A321 212,https://hexdb.io/static/aircraft-images/C-FGKZ-thumb.jpg,43.463333,-80.843598,21225,130.05878695449343,Sat May 17 17:15:05 2025
+c03dac,WestJet,C-GFJM,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.661681,-79.950576,25750,114.9984783988261,Sat May 17 17:31:04 2025
+aca1dd,American Airlines,N913AN,737NG 823/W,https://hexdb.io/static/aircraft-images/N913AN-thumb.jpg,42.494279,-80.215908,26650,132.47577338030658,Sat May 17 17:15:37 2025
+c0481c,Air Canada Rouge,C-GBHZ,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.903241,-81.790139,23000,177.64330422555662,Sat May 17 21:22:16 2025
+840df8,Delta Air Lines,N664DN,757 232,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.541016,-79.78495,7250,38.15140700181624,Sat May 17 17:19:13 2025
+a8c36d,Delta Air Lines,N664DN,757 232,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.051091,-80.646188,33125,114.56512354298893,Sat May 17 17:28:29 2025
+c05ea6,Air Canada,C-GJVX,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.682877,-79.89475,7675,46.611050994868215,Sat May 17 18:53:55 2025
+c04dbb,Air Canada Express,C-FXJF,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FXJF-thumb.jpg,43.484399,-79.471436,9375,21.63943745342901,Sat May 17 17:20:46 2025
+c052d3,WestJet,C-GFJM,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.661681,-79.950576,25750,114.9984783988261,Sat May 17 17:31:04 2025
+c07971,Air Canada,C-GTZS,A220 300,https://hexdb.io/static/aircraft-images/C-GTZS-thumb.jpg,43.264481,-80.158102,16450,77.34288483358904,Sat May 17 17:27:57 2025
+a3534a,Delta Connection,N313PQ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.308012,-79.355818,13350,40.158010682809305,Sat May 17 17:20:45 2025
+acf54f,JetBlue Airways,N934JB,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.647203,-80.639265,33650,127.08431430029266,Sat May 17 17:26:24 2025
+ad14aa,Avianca,N942AV,A320 251NSL,https://hexdb.io/static/aircraft-images/N942AV-thumb.jpg,43.003006,-80.619847,26875,114.05219323271082,Sat May 17 17:33:40 2025
+0c6063,Caribbean Airlines,9Y-GRN,737MAX 8,https://hexdb.io/static/aircraft-images/9Y-GRN-thumb.jpg,42.839324,-79.670236,20700,93.73925192145525,Sat May 17 17:33:40 2025
+c055f5,Air Canada,C-GJVT,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.712082,-79.543571,2025,14.989656156259967,Sat May 17 17:27:26 2025
+c05ea2,Air Canada,C-GJWN,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.461044,-80.662324,15350,114.33942307651307,Sat May 17 20:47:24 2025
+c00fab,Air Canada Express,C-FFYG,EMB-175 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.113052,-81.173205,15850,148.85029972240403,Sat May 17 20:32:02 2025
+4a91b2,Scandinavian Airlines System,SE-DMR,A321 253NXSL,https://hexdb.io/static/aircraft-images/SE-DMR-thumb.jpg,43.680908,-79.791466,6350,37.047259761107135,Sat May 17 17:29:00 2025
+ac252a,Southwest Airlines,N8819L,737MAX 8,https://hexdb.io/static/aircraft-images/N8819L-thumb.jpg,42.627838,-80.156505,26475,120.47212189237045,Sat May 17 17:28:29 2025
+c05f94,Air Canada Rouge,C-GKFB,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.325409,-79.370089,11450,38.15566679990137,Sat May 17 17:28:28 2025
+c0064c,Air Canada,C-GMIU,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.221379,-80.803332,38000,124.08133706053368,Sat May 17 17:42:26 2025
+c04051,Air Canada Rouge,C-FYJG,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.677544,-79.863674,8975,43.68469004086072,Sat May 17 17:31:36 2025
+c01945,Air Canada,C-GMIU,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.25386,-80.741783,38000,119.61378510933329,Sat May 17 17:41:25 2025
+a2c8b5,JetBlue Airways,N279JB,EMB-190 AR,https://hexdb.io/static/aircraft-images/N279JB-thumb.jpg,42.646877,-80.636455,36000,127.04178199348671,Sat May 17 17:33:40 2025
+ad5e27,Southwest Airlines,N960WN,737NG 7H4/W,https://hexdb.io/static/aircraft-images/N960WN-thumb.jpg,42.627046,-80.151779,36000,120.48262083796612,Sat May 17 17:31:36 2025
+4caf91,Aer Lingus,EI-GEY,A330 202,https://hexdb.io/static/aircraft-images/EI-GEY-thumb.jpg,43.6035,-79.744071,5275,32.98576209153905,Sat May 17 17:31:36 2025
+c073ef,Ornge Air,C-GRXM,PC-12 47E NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.773162,-79.243992,10575,18.05116300513968,Sat May 17 17:38:49 2025
+c0653d,Air Canada,C-GMIU,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.955193,-81.537061,38000,166.15604737836514,Sat May 17 17:47:41 2025
+a8ae2e,Air Canada,C-GMIU,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.040849,-81.197335,38000,148.5077729186341,Sat May 17 17:45:04 2025
+ab4b2b,Vista America,N827DD,Challenger 350,https://hexdb.io/static/aircraft-images/N827DD-thumb.jpg,42.340897,-79.997323,41000,146.83384418349956,Sat May 17 17:33:39 2025
+a2ddac,American Eagle,N284JN,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.653275,-80.120981,30000,117.82558701387269,Sat May 17 17:35:12 2025
+c0482a,Air Canada Express,C-GJAN,CRJ 900 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.812759,-79.834006,21150,98.67633854506101,Sat May 17 17:45:04 2025
+a27318,United Airlines,N881UA,A319 132,https://hexdb.io/static/aircraft-images/N881UA-thumb.jpg,42.575089,-80.105126,38025,124.59246204487206,Sat May 17 17:38:49 2025
+ad2ea1,Alaska Airlines,N949AK,737MAX 9,https://hexdb.io/static/aircraft-images/N949AK-thumb.jpg,43.681549,-79.946296,10025,51.35986646151279,Sat May 17 17:39:21 2025
+ab7376,Delta Air Lines,N837MH,767 432ER,https://hexdb.io/static/aircraft-images/N837MH-thumb.jpg,43.104263,-80.464123,34000,102.54210598774974,Sat May 17 17:44:02 2025
+c05c7a,Air Canada Express,C-GJAN,CRJ 900 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.089203,-81.292952,35000,156.3436191601744,Sat May 17 17:36:45 2025
+a5c2dd,United Airlines,N470UA,A320 232,https://hexdb.io/static/aircraft-images/N470UA-thumb.jpg,43.684387,-80.116776,13550,67.15332005700904,Sat May 17 17:42:26 2025
+c051e2,Air Canada,C-GFAF,A330 343X,https://hexdb.io/static/aircraft-images/C-GFAF-thumb.jpg,43.676473,-79.792982,5525,37.14584013053637,Sat May 17 21:29:58 2025
+a9b775,American Eagle,N725PS,CRJ 700 701ER,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.738327,-79.581028,22425,103.91638558337031,Sat May 17 18:58:37 2025
+ac234f,United Airlines,N881UA,A319 132,https://hexdb.io/static/aircraft-images/N881UA-thumb.jpg,42.661774,-82.535046,36025,185.5665211153481,Sat May 17 17:55:20 2025
+c060b6,Porter Airlines,C-GKQF,DHC-8 402 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.774338,-79.250708,11025,17.665485585575727,Sat May 17 17:43:29 2025
+c04049,Air Canada,C-FYIY,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.877655,-79.011436,22325,42.72897516661749,Sat May 17 17:47:41 2025
+a1bfb2,United Airlines,N21108,757 224/W,https://hexdb.io/static/aircraft-images/N21108-thumb.jpg,42.62709,-80.139583,36000,120.33249197791663,Sat May 17 17:39:21 2025
+c06709,FedEx Express,N276FE,767 300F,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.886093,-80.900382,34000,129.9325833390069,Sat May 17 21:02:47 2025
+a4ad69,Johnson & Johnson,N400J,G650 ER,https://hexdb.io/static/aircraft-images/N400J-thumb.jpg,43.333989,-79.374978,11825,37.18530597927628,Sat May 17 17:41:24 2025
+c060b3,Porter Airlines,C-GKQC,DHC-8 402 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.639278,-79.353202,1275,4.723355259357669,Sat May 17 17:41:25 2025
+495307,TAP Air Portugal,CS-TXG,A321 251NXSL,https://hexdb.io/static/aircraft-images/CS-TXG-thumb.jpg,43.61261,-79.733149,4850,31.85724715280212,Sat May 17 17:43:28 2025
+c07e32,Delta Connection,N181PQ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.629839,-80.190359,34000,120.7270487649238,Sat May 17 19:37:33 2025
+a9d59a,United Airlines,N73251,737NG 824/W,https://hexdb.io/static/aircraft-images/N73251-thumb.jpg,42.46756,-79.99339,36000,134.21299439810147,Sat May 17 17:42:57 2025
+a2b198,United Airlines,N27292,737MAX 8,https://hexdb.io/static/aircraft-images/N27292-thumb.jpg,43.463654,-80.840979,20825,129.83676756824198,Sat May 17 17:43:28 2025
+a9ab05,Alaska Airlines,N722AL,737MAX 9,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.629517,-80.194577,34000,120.80804573168334,Sat May 17 17:46:06 2025
+86e474,Japan Airlines,JA865J,787 9,https://hexdb.io/static/aircraft-images/JA865J-thumb.jpg,43.874879,-79.680307,39000,35.69014799968244,Sat May 17 17:44:02 2025
+c06177,Porter Airlines,C-GKXQ,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.597961,-79.732127,6225,32.03439058125291,Sat May 17 17:46:06 2025
+c01dac,Flair Airlines,C-FLGD,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.356706,-80.44693,5775,96.37407223683735,Sat May 17 20:32:33 2025
+c00b7d,Air Canada Express,C-FEJC,EMB-175 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.31979,-79.365758,12100,38.798027958650835,Sat May 17 20:42:17 2025
+a70538,JetBlue Airways,N975JT,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.641477,-80.653765,35025,127.64034163620533,Sat May 17 19:28:25 2025
+c049fd,WestJet,C-GCAM,737MAX 8,https://hexdb.io/static/aircraft-images/C-GCAM-thumb.jpg,43.607995,-79.751979,5300,33.615556401599186,Sat May 17 17:47:41 2025
+c0540c,WestJet,C-GFVN,737MAX 8,https://hexdb.io/static/aircraft-images/C-GFVN-thumb.jpg,43.334335,-79.374496,11550,37.14835925983937,Sat May 17 17:47:39 2025
+3c7a50,Condor Flugdienst,D-ANRP,A330 941N,https://hexdb.io/static/aircraft-images/D-ANRP-thumb.jpg,43.573517,-79.767385,5125,35.69192411924312,Sat May 17 20:08:16 2025
+c060bc,Porter Airlines,C-GKQL,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.612244,-79.756399,5450,33.94849933273158,Sat May 17 19:14:02 2025
+a11a81,Delta Connection,N170PQ,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N170PQ-thumb.jpg,42.29512,-80.376913,32250,149.36989439487556,Sat May 17 17:50:42 2025
+a0b333,United Express,N144SY,EMB-175 LR,https://hexdb.io/static/aircraft-images/N144SY-thumb.jpg,42.683304,-80.070107,34000,114.48252628082518,Sat May 17 17:51:14 2025
+c05bcb,Air Canada,C-GITU,A321 211,https://hexdb.io/static/aircraft-images/C-GITU-thumb.jpg,43.682385,-79.932273,8175,50.07330457331883,Sat May 17 17:54:49 2025
+a4b420,Alaska Airlines,N402AS,737NG 990ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.629607,-80.198087,32000,120.84588037479554,Sat May 17 21:54:50 2025
+c04687,Airsprint Inc,C-GASK,Legacy 450,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.159653,-81.030813,16550,139.88720602573994,Sat May 17 17:52:16 2025
+c0466c,Air Canada Rouge,C-GARJ,A319 114,https://hexdb.io/static/aircraft-images/C-GARJ-thumb.jpg,43.681268,-79.867859,7600,44.10872619760057,Sat May 17 17:55:20 2025
+a08446,United Express,N132SY,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.685935,-79.958304,34000,112.75949545301063,Sat May 17 17:53:48 2025
+c0501e,Air Canada,C-GEIV,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.181168,-81.068498,34000,143.0302216638686,Sat May 17 18:05:36 2025
+c060c3,Air Canada Rouge,C-GARJ,A319 114,https://hexdb.io/static/aircraft-images/C-GARJ-thumb.jpg,43.681268,-79.867859,7600,44.10872619760057,Sat May 17 17:55:20 2025
+ab5f1b,Lufthansa,D-AIXR,A350 941,https://hexdb.io/static/aircraft-images/D-AIXR-thumb.jpg,42.966202,-81.492877,39000,164.06572494467764,Sat May 17 18:04:33 2025
+a96ae3,Alaska Airlines,N706AL,737MAX 9,https://hexdb.io/static/aircraft-images/N706AL-thumb.jpg,42.181541,-80.416026,35000,158.73342614566837,Sat May 17 17:58:22 2025
+c07995,Air Transat,C-GUBC,A330 243,https://hexdb.io/static/aircraft-images/C-GUBC-thumb.jpg,43.534058,-79.826021,7175,41.81429102410522,Sat May 17 21:55:52 2025
+70209e,Biman Bangladesh Airlines,S2-AJX,787 9,https://hexdb.io/static/aircraft-images/S2-AJX-thumb.jpg,43.635269,-79.824361,6425,39.92175637537453,Sat May 17 18:03:01 2025
+c01a5a,Air Canada Express,C-FJZL,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.948303,-80.925548,29250,131.09762309678112,Sat May 17 20:06:19 2025
+3c6712,Lufthansa,D-AIXR,A350 941,https://hexdb.io/static/aircraft-images/D-AIXR-thumb.jpg,42.941208,-81.591179,39000,168.597351165182,Sat May 17 18:03:32 2025
+a35d79,Delta Air Lines,N316DU,A220 300,https://hexdb.io/static/aircraft-images/N316DU-thumb.jpg,43.686951,-79.877121,8500,45.02881221128124,Sat May 17 18:05:36 2025
+c084b9,Air Canada Rouge,C-GYGU,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.682968,-79.909569,9225,47.981589635733954,Sat May 17 21:59:26 2025
+c02fd5,Air Canada,C-FSCY,737MAX 8,https://hexdb.io/static/aircraft-images/C-FSCY-thumb.jpg,43.138046,-80.923441,36000,132.04675493180778,Sat May 17 18:15:47 2025
+c085e0,WestJet,C-GYSD,737NG 8CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.259766,-79.350352,14700,45.53847181647875,Sat May 17 18:08:37 2025
+a00c7a,Delta Air Lines,N102DN,A321 211SL,https://hexdb.io/static/aircraft-images/N102DN-thumb.jpg,42.717497,-79.904139,35025,109.03817268211839,Sat May 17 18:08:38 2025
+a9c380,United Express,N728YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.909851,-79.579991,18400,85.23833929952814,Sat May 17 20:14:30 2025
+a8d4ef,United Airlines,N66841,737NG 924ER/W,https://hexdb.io/static/aircraft-images/N66841-thumb.jpg,42.426173,-80.067657,34000,138.3543024333738,Sat May 17 18:09:40 2025
+c02207,Delta Connection,N839SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N839SK-thumb.jpg,42.75325,-80.100195,25725,108.91652186995374,Sat May 17 18:16:49 2025
+c05e8e,Delta Connection,N839SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N839SK-thumb.jpg,43.118638,-79.810508,17125,68.97887895885405,Sat May 17 18:18:21 2025
+c05219,Air Canada Rouge,C-GFCI,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.929214,-81.729658,23000,176.00000233285988,Sat May 17 18:13:14 2025
+c066b6,Sunwing Airlines,C-GMXH,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.790741,-79.883527,22575,101.62059081583999,Sat May 17 18:25:06 2025
+a5170f,NetJets,N427QS,Phenom 300,https://hexdb.io/static/aircraft-images/N427QS-thumb.jpg,43.71405,-79.842693,10325,42.26894202931895,Sat May 17 19:49:17 2025
+aa477b,United Express,N761YX,EMB-175 LR,https://hexdb.io/static/aircraft-images/N761YX-thumb.jpg,43.505347,-81.965528,34000,230.2655801158554,Sat May 17 18:16:49 2025
+a12712,United Airlines,N17329,737MAX 8,https://hexdb.io/static/aircraft-images/N17329-thumb.jpg,42.627869,-80.155314,36000,120.45493909255421,Sat May 17 18:18:21 2025
+4bb190,Turkish Airlines,TC-LLP,787 9,https://hexdb.io/static/aircraft-images/TC-LLP-thumb.jpg,43.08934,-80.472107,30300,103.4567040149047,Sat May 17 18:24:34 2025
+c00b78,Air Canada Express,C-FEIX,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FEIX-thumb.jpg,43.152374,-79.360252,15400,57.41143946737837,Sat May 17 18:16:49 2025
+adcca5,Delta Air Lines,N989AT,717 23S,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.702347,-80.984407,27875,134.3664347928987,Sat May 17 18:25:06 2025
+ab68d0,Delta Connection,N834SK,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.511505,-80.227287,32525,131.0516448780552,Sat May 17 18:20:56 2025
+c00e15,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.612518,-79.731041,4575,31.66980227556969,Sat May 17 21:05:52 2025
+ac98c1,Delta Connection,N910XJ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.68779,-81.333535,24025,145.26101033250924,Sat May 17 18:32:50 2025
+c05f0f,Porter Airlines,C-GKQL,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.576619,-79.741385,6175,33.360984710770275,Sat May 17 19:14:03 2025
+ac2173,Southwest Airlines,N8809L,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.627731,-80.152193,27425,120.42880925387692,Sat May 17 18:21:57 2025
+344503,Iberia,EC-MAA,A330 302,https://hexdb.io/static/aircraft-images/EC-MAA-thumb.jpg,42.969543,-81.145403,38000,143.6053994439272,Sat May 17 18:33:21 2025
+a44b56,Delta Air Lines,N376NW,A320 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.780624,-82.278297,36000,191.46369662910212,Sat May 17 18:36:55 2025
+c05ed9,Air Canada,C-GJXW,A220 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.031754,-80.698476,22400,117.90544708280963,Sat May 17 20:11:51 2025
+c05bd6,Air Canada,C-GIUF,A321 211,https://hexdb.io/static/aircraft-images/C-GIUF-thumb.jpg,43.588074,-79.765149,6000,35.15422937757237,Sat May 17 18:24:34 2025
+a47d4c,Flexjet,N389FX,Phenom 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,41.215815,-80.647638,43000,247.48353425945095,Sat May 17 18:23:32 2025
+a3ed69,Delta Air Lines,N352NB,A319 114,https://hexdb.io/static/aircraft-images/N352NB-thumb.jpg,42.509216,-80.096574,35025,130.57518648479976,Sat May 17 18:25:06 2025
+a65847,United Express,N508GJ,CRJ 700,https://hexdb.io/static/aircraft-images/N508GJ-thumb.jpg,42.760232,-82.3371,34000,191.66563279722087,Sat May 17 18:41:04 2025
+a64ce6,Delta Air Lines,N505DZ,A321 271NXSL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.188571,-80.161743,33000,160.95429715132747,Sat May 17 18:25:06 2025
+4cc53a,Icelandair,TF-ICL,737MAX 8,https://hexdb.io/static/aircraft-images/TF-ICL-thumb.jpg,43.062424,-80.501681,31600,105.96011810074206,Sat May 17 18:34:53 2025
+a43e83,United Airlines,N37267,737NG 824/W,https://hexdb.io/static/aircraft-images/N37267-thumb.jpg,42.600128,-80.14389,31000,122.72650025671447,Sat May 17 18:27:41 2025
+ab4c76,Delta Connection,N827SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N827SK-thumb.jpg,42.511505,-80.228098,28000,131.05627115920024,Sat May 17 18:30:15 2025
+800462,Air India,VT-ALM,777 337ER,https://hexdb.io/static/aircraft-images/VT-ALM-thumb.jpg,43.653854,-79.839243,6225,41.284595504884486,Sat May 17 18:27:41 2025
+a759eb,Delta Air Lines,N573DT,A321 271NXSL,https://hexdb.io/static/aircraft-images/N573DT-thumb.jpg,41.328285,-80.611621,33000,236.5379910621058,Sat May 17 18:27:40 2025
+c02ee7,Austrian Airlines,OE-LPM,787 9,https://hexdb.io/static/aircraft-images/OE-LPM-thumb.jpg,43.410553,-79.813566,34975,46.52202079130514,Sat May 17 18:42:05 2025
+a88cbf,Delta Connection,N827SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N827SK-thumb.jpg,42.507431,-80.043515,28000,130.50447352837756,Sat May 17 18:27:41 2025
+c05ec7,Air Canada,C-GJXE,A220 300,https://hexdb.io/static/aircraft-images/C-GJXE-thumb.jpg,43.724991,-79.590199,1875,19.582059836780342,Sat May 17 18:32:50 2025
+ad4744,Alaska Airlines,N955AK,737MAX 9,https://hexdb.io/static/aircraft-images/N955AK-thumb.jpg,42.628052,-80.160432,34000,120.5019137298539,Sat May 17 18:30:15 2025
+aa7e51,United Airlines,N77520,737NG 824/W,https://hexdb.io/static/aircraft-images/N77520-thumb.jpg,42.486511,-80.210308,35000,133.1272377813052,Sat May 17 18:30:46 2025
+3c66c4,Lufthansa,D-AIVD,A350 941,https://hexdb.io/static/aircraft-images/D-AIVD-thumb.jpg,43.585696,-79.783238,4750,36.79514492088674,Sat May 17 20:47:24 2025
+a11d3c,Delta Air Lines,N171DN,767 332ER/W,https://hexdb.io/static/aircraft-images/N171DN-thumb.jpg,42.591019,-79.701254,36025,120.44130874351684,Sat May 17 18:31:17 2025
+c010cb,Air Canada,C-FGJI,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.036285,-81.473524,23000,166.25149239716237,Sat May 17 18:31:17 2025
+a0b7b8,United Airlines,N14504,A321 271NXSL,https://hexdb.io/static/aircraft-images/N14504-thumb.jpg,42.486086,-79.988198,31000,132.37418879152855,Sat May 17 18:32:18 2025
+aa2ed8,Air Canada Express,C-GLJZ,CRJ 900,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.367832,-79.755249,11400,45.666604342637214,Sat May 17 20:17:04 2025
+39d2a4,Air France,F-HUVE,A350 941,https://hexdb.io/static/aircraft-images/F-HUVE-thumb.jpg,43.661856,-79.815085,7300,39.08950577565953,Sat May 17 18:34:53 2025
+c05220,Air Canada Rouge,C-GFCP,A320 214,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.727401,-79.521201,2450,13.795824990176373,Sat May 17 18:33:21 2025
+c01a52,Air Canada Express,C-FJZD,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.396555,-80.694515,15975,116.54696597650475,Sat May 17 20:44:49 2025
+ab53e4,Delta Connection,N829SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N829SK-thumb.jpg,42.517273,-81.472612,24000,143.1043075901668,Sat May 17 18:45:12 2025
+c027d1,Air Canada,C-FPCA,767 375ERBDSF,https://hexdb.io/static/aircraft-images/C-FPCA-thumb.jpg,42.921204,-81.747862,23000,176.50774140350973,Sat May 17 18:36:25 2025
+c06183,Air Canada Express,C-FFYG,EMB-175 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.179249,-79.850595,15600,65.3389628793488,Sat May 17 18:44:41 2025
+440184,Austrian Airlines,OE-LPM,787 9,https://hexdb.io/static/aircraft-images/OE-LPM-thumb.jpg,43.205178,-80.586809,35000,108.50998162744578,Sat May 17 18:38:27 2025
+4cc50e,Icelandair,TF-ICE,737MAX 8,https://hexdb.io/static/aircraft-images/TF-ICE-thumb.jpg,43.646347,-79.834261,7475,40.814581429914035,Sat May 17 21:14:05 2025
+c050c4,Air Canada,C-GEPF,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.463699,-80.834656,18575,129.28871831419653,Sun May 18 06:52:21 2025
+c0121e,WestJet,C-FGWJ,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.915283,-80.184993,38000,79.90701053756484,Sat May 17 18:46:45 2025
+c02358,Air Canada Express,C-FNJZ,CRJ 900,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.053651,-80.639975,24350,114.15650719338274,Sat May 17 22:21:24 2025
+4caa6d,Italia Trasporto Aereo,EI-EJO,A330 202,https://hexdb.io/static/aircraft-images/EI-EJO-thumb.jpg,43.09322,-80.981336,35000,135.46457567682145,Sat May 17 18:40:01 2025
+a0a30e,Delta Air Lines,N140DU,A220 100,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.437943,-80.278723,37000,137.50739998236267,Sat May 17 18:41:02 2025
+a1befc,United Airlines,N211UA,777 222,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.628052,-80.159434,36000,120.48966738118284,Sat May 17 18:43:40 2025
+c050c5,Air Canada,C-GEPG,737MAX 8,https://hexdb.io/static/aircraft-images/C-GEPG-thumb.jpg,42.894058,-81.846867,37000,180.15987814106415,Sat May 17 18:41:04 2025
+c05d7b,Air Canada Express,C-FRQP,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FRQP-thumb.jpg,43.178085,-79.869886,17350,66.28786569714345,Sat May 17 18:49:16 2025
+c01970,Delta Air Lines,N530DE,A321 271NXSL,https://hexdb.io/static/aircraft-images/N530DE-thumb.jpg,42.543671,-79.98411,32025,126.71540744961521,Sat May 17 21:25:53 2025
+c02e94,Air Canada Express,C-FRQP,EMB-175 SU,https://hexdb.io/static/aircraft-images/C-FRQP-thumb.jpg,42.567599,-79.986473,27200,124.4049702790662,Sat May 17 18:53:55 2025
+c06359,Porter Airlines,C-GLQE,DHC-8 402,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.558184,-79.367262,4350,12.41022682003687,Sat May 17 18:44:41 2025
+aa7e9b,United Airlines,N77544,737MAX 9,https://hexdb.io/static/aircraft-images/N77544-thumb.jpg,42.486511,-80.216363,35000,133.15232029327822,Sat May 17 18:43:38 2025
+405f32,DHL Air,G-DHLE,767 3JHF/W,https://hexdb.io/static/aircraft-images/G-DHLE-thumb.jpg,43.517807,-81.720205,36025,209.00923050269938,Sat May 17 18:43:40 2025
+424504,Jet Aviation Business Jets (HK) Ltd,VQ-BIG,ACJ330 243,https://hexdb.io/static/aircraft-images/VQ-BIG-thumb.jpg,43.479092,-81.99391,39000,231.42030201027248,Sat May 17 18:43:39 2025
+c0196c,Air Canada,C-FJNX,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.462985,-80.779332,17825,124.4802762123662,Sun May 18 06:49:48 2025
+a07fc0,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,44.187757,-78.623853,41000,92.18211265599261,Sat May 17 18:44:41 2025
+c060c0,Porter Airlines,C-GKQP,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.461777,-80.670819,16700,115.07948840570307,Sat May 17 18:45:12 2025
+3c4ad9,Lufthansa,D-ABVY,747 430,https://hexdb.io/static/aircraft-images/D-ABVY-thumb.jpg,43.638719,-79.866551,6950,43.77408539951883,Sat May 17 18:49:16 2025
+c05030,Air Canada,C-GEJN,737MAX 8,https://hexdb.io/static/aircraft-images/C-GEJN-thumb.jpg,43.463264,-80.804443,16800,126.66096778989579,Sat May 17 18:46:44 2025
+c0636a,Porter Airlines,C-GLQV,DHC-8 402,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.638702,-79.35214,1400,4.838220512438114,Sat May 17 18:46:45 2025
+c03003,Air Canada,C-FSES,737MAX 8,https://hexdb.io/static/aircraft-images/C-FSES-thumb.jpg,42.928574,-81.729467,23000,175.94468208795215,Sat May 17 18:49:16 2025
+a8741c,Air Canada Express,C-FRJA,CRJ 900 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.968353,-80.872789,27200,128.22908429150107,Sat May 17 19:03:15 2025
+c00e24,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.48874,-79.857384,33000,131.7488363419157,Sat May 17 18:53:24 2025
+a6c248,United Airlines,N53442,737NG 924ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.669688,-80.103298,33600,116.1534467471324,Sat May 17 18:53:55 2025
+c0173f,Air Canada,C-FIUW,777 333ER,https://hexdb.io/static/aircraft-images/C-FIUW-thumb.jpg,43.561203,-79.794787,6775,38.378535586099964,Sat May 17 18:53:55 2025
+a396a9,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.488205,-79.954064,33000,132.06282375369378,Sat May 17 18:52:52 2025
+abc455,Southwest Airlines,N8574Z,737NG 800/W,https://hexdb.io/static/aircraft-images/N8574Z-thumb.jpg,42.769915,-80.04677,34000,106.4449685590161,Sat May 17 18:53:55 2025
+a22642,Alaska Airlines,N238AK,737NG 990ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.772659,-82.207697,32000,187.09864581459846,Sat May 17 19:11:00 2025
+c0172e,Air Canada,C-FIUF,777 233LR,https://hexdb.io/static/aircraft-images/C-FIUF-thumb.jpg,43.679947,-79.922152,11225,49.1113268828645,Sat May 17 18:53:55 2025
+aaf619,Airmax LLC,N805T,GVII-G600,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.652771,-80.813932,43000,130.70289765202799,Sat May 17 19:04:17 2025
+a42b32,Delta Air Lines,N368NB,A319 114,https://hexdb.io/static/aircraft-images/N368NB-thumb.jpg,42.626038,-80.113553,35975,120.12037570930354,Sat May 17 19:00:09 2025
+c008a9,Air Canada,C-FDHG,A330 343E,https://hexdb.io/static/aircraft-images/C-FDHG-thumb.jpg,43.704963,-78.953378,15225,40.80864970870091,Sat May 17 19:07:53 2025
+a7b133,American Eagle,N595NN,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N595NN-thumb.jpg,42.790026,-79.950065,22325,102.82141155115215,Sat May 17 20:21:44 2025
+c058dd,Air Canada,C-GHQY,787 8,https://hexdb.io/static/aircraft-images/C-GHQY-thumb.jpg,43.531836,-79.820382,7300,41.41207839116247,Sat May 17 21:54:50 2025
+c08853,Porter Airlines,C-GZQG,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.050904,-81.429879,23000,164.04547436014565,Sat May 17 19:00:40 2025
+4080b6,British Airways,G-ZBLI,787 10,https://hexdb.io/static/aircraft-images/G-ZBLI-thumb.jpg,43.260315,-80.962787,35000,136.56382239666578,Sat May 17 19:00:41 2025
+c0635e,Porter Airlines,C-GLQJ,DHC-8 402,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.679306,-79.234484,6675,14.520294855068666,Sat May 17 19:04:48 2025
+aa7f08,United Airlines,N77578,737MAX 9,https://hexdb.io/static/aircraft-images/N77578-thumb.jpg,42.647576,-80.664623,32000,127.59276526052389,Sat May 17 19:07:22 2025
+acd961,Spirit Airlines,N927NK,A320 271NSL,https://hexdb.io/static/aircraft-images/N927NK-thumb.jpg,41.161011,-80.112488,36025,270.8144489285413,Sat May 17 19:03:14 2025
+c06a9b,Delta Air Lines,N397DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.501526,-79.78877,36000,130.2449839367088,Sat May 17 19:05:20 2025
+c00dea,British Airways,G-ZBLI,787 10,https://hexdb.io/static/aircraft-images/G-ZBLI-thumb.jpg,43.516388,-79.733212,35000,34.942229477195205,Sat May 17 19:06:21 2025
+c05edf,Air Canada,C-GJYC,A220 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.15844,-80.921892,36000,132.14614563686692,Sat May 17 19:13:01 2025
+c06751,WestJet,C-GNDG,737NG 8CT/W,https://hexdb.io/static/aircraft-images/C-GNDG-thumb.jpg,43.314902,-79.361376,11675,39.36218051378323,Sat May 17 19:04:48 2025
+aaed0c,Alaska Airlines,N803AK,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.647461,-80.664056,34000,127.58594659449936,Sat May 17 19:11:00 2025
+a49d22,Delta Air Lines,N397DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.511917,-80.243017,34425,131.10734875590865,Sat May 17 19:08:24 2025
+c0173a,Porter Airlines,C-GZQG,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.579645,-79.927695,11250,49.68176025485368,Sat May 17 19:11:00 2025
+c05430,Air Canada,C-FIUR,777 333ER,https://hexdb.io/static/aircraft-images/C-FIUR-thumb.jpg,43.578918,-79.759145,5775,34.840294129518924,Sat May 17 19:07:22 2025
+71002a,Air Canada,C-GEHY,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.109894,-80.970388,37000,134.93805990112688,Sat May 17 19:13:01 2025
+40731c,British Airways,G-ZBJI,787 8,https://hexdb.io/static/aircraft-images/G-ZBJI-thumb.jpg,43.106627,-80.463213,40000,102.41830986194654,Sat May 17 19:14:03 2025
+c00d51,Flair Airlines,C-FFBC,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.691882,-80.029646,10825,59.19618980427381,Sat May 17 21:22:16 2025
+c0884f,Porter Airlines,C-GZQC,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.681175,-79.895063,7550,46.62140456845216,Sat May 17 20:35:39 2025
+a546c9,American Eagle,N439YX,EMB-175 LR,https://hexdb.io/static/aircraft-images/N439YX-thumb.jpg,42.427523,-80.011128,31000,138.1863607894117,Sat May 17 19:09:57 2025
+ab62f8,Southwest Airlines,N8326F,737NG 8H4/W,https://hexdb.io/static/aircraft-images/N8326F-thumb.jpg,42.027872,-80.279271,40000,175.0460233338878,Sat May 17 19:09:57 2025
+495269,Azores Airlines,CS-TSI,A321 253NXSL,https://hexdb.io/static/aircraft-images/CS-TSI-thumb.jpg,43.566193,-79.797023,6450,38.442229222845924,Sat May 17 21:32:01 2025
+c07e2c,Air Canada,C-GVUH,A220 300,https://hexdb.io/static/aircraft-images/C-GVUH-thumb.jpg,43.466337,-81.123047,22975,154.4522754297674,Sat May 17 19:10:59 2025
+c05007,Air Canada,C-GEHY,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.964874,-81.423319,37000,159.82367405936813,Sat May 17 19:11:00 2025
+c03493,Air Transat,C-FTXQ,A321 211SL,https://hexdb.io/static/aircraft-images/C-FTXQ-thumb.jpg,43.356101,-79.388188,11400,34.70195810821133,Sat May 17 19:13:01 2025
+c060be,Porter Airlines,C-GKQN,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.677591,-79.859946,9250,43.34078765984474,Sat May 17 19:16:35 2025
+a6cacb,Delta Air Lines,N537DT,A321 271NXSL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.658516,-80.991658,31975,134.9672460370259,Sat May 17 19:21:43 2025
+c00cd6,WestJet,C-FEWJ,737MAX 8,https://hexdb.io/static/aircraft-images/C-FEWJ-thumb.jpg,43.68071,-79.805668,7375,38.357219571468356,Sat May 17 19:18:37 2025
+a81773,Spirit Airlines,N620NK,A320 232SL,https://hexdb.io/static/aircraft-images/N620NK-thumb.jpg,42.471222,-80.056936,37975,134.0128206520593,Sat May 17 19:17:36 2025
+c058be,Air Canada,C-GHPT,787 8,https://hexdb.io/static/aircraft-images/C-GHPT-thumb.jpg,43.599609,-79.753205,5000,33.868720748960214,Sat May 17 19:18:38 2025
+ad7282,Delta Air Lines,N966AT,717 2BD,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.757811,-80.052455,30000,107.61215192173611,Sat May 17 19:18:38 2025
+4076e8,British Airways,G-XWBA,A350 1041,https://hexdb.io/static/aircraft-images/G-XWBA-thumb.jpg,43.536398,-79.802987,7350,39.811187433139814,Sat May 17 19:21:43 2025
+a2e806,Alaska Airlines,N287AK,737NG 900ER/W,https://hexdb.io/static/aircraft-images/N287AK-thumb.jpg,42.62764,-80.150195,34000,120.41241432646058,Sat May 17 19:22:45 2025
+c05857,Air Canada,C-GHLU,767 333ERBDSF/W,https://hexdb.io/static/aircraft-images/C-GHLU-thumb.jpg,42.803759,-79.871947,27050,100.16911401829755,Sat May 17 19:28:25 2025
+c0856a,Ornge Air,C-GYNP,AW.139,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.22743,-79.643555,1725,53.08508487663036,Sat May 17 21:22:16 2025
+a1235b,United Airlines,N17229,737NG 824/W,https://hexdb.io/static/aircraft-images/N17229-thumb.jpg,42.458633,-79.84058,36000,134.8427312802994,Sat May 17 19:21:43 2025
+a779eb,Delta Air Lines,N581DA,A321 271NXSL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.148682,-79.825974,35000,167.69551912088613,Sat May 17 19:21:43 2025
+c06cda,WestJet,C-GPFT,737MAX 8,https://hexdb.io/static/aircraft-images/C-GPFT-thumb.jpg,43.343485,-79.380602,11575,36.115180546814244,Sat May 17 19:22:45 2025
+c05004,Air Canada,C-GEHV,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.680942,-79.909058,9675,47.91208566260323,Sat May 17 19:26:51 2025
+ab4af1,American Airlines,N827AW,A319 132,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.669937,-82.61132,36025,189.84510977109557,Sat May 17 19:40:35 2025
+a0da26,Mira Vista Aviation,N154MH,GV,https://hexdb.io/static/aircraft-images/N154MH-thumb.jpg,43.423004,-80.468722,17575,97.74229385975133,Sat May 17 19:24:48 2025
+a3813b,Delta Air Lines,N325DN,A321 211SL,https://hexdb.io/static/aircraft-images/N325DN-thumb.jpg,42.511643,-80.225873,32750,131.03178881945234,Sat May 17 19:27:52 2025
+a92ea0,Delta Air Lines,N325DN,A321 211SL,https://hexdb.io/static/aircraft-images/N325DN-thumb.jpg,42.511643,-80.225873,32750,131.03178881945234,Sat May 17 19:27:52 2025
+ad9712,JetBlue Airways,N975JT,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.601181,-81.477918,35000,146.39401899714093,Sat May 17 19:26:20 2025
+c071a4,WestJet,C-GRAX,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.353516,-79.387079,11375,34.99025375866999,Sat May 17 19:26:51 2025
+c05ee1,Air Canada,C-GJYE,A220 300,https://hexdb.io/static/aircraft-images/C-GJYE-thumb.jpg,43.621765,-79.734554,5550,31.856672030200492,Sat May 17 19:28:25 2025
+ab3a0c,United Airlines,N822UA,A319 131,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.771451,-82.198941,35950,186.54016934330105,Sat May 17 19:45:11 2025
+c0534e,Cargojet Airways,C-GUAJ,767 35EERBCF,https://hexdb.io/static/aircraft-images/C-GUAJ-thumb.jpg,43.273132,-80.20703,11400,80.32646010323796,Sat May 17 22:17:47 2025
+899018,China Airlines,B-18052,777 36NER,https://hexdb.io/static/aircraft-images/B-18052-thumb.jpg,43.869153,-79.677822,37000,35.09543232289698,Sat May 17 19:31:57 2025
+ab8173,Delta Connection,N840SK,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.685004,-81.343604,24925,145.50836700123742,Sat May 17 19:45:11 2025
+484445,KLM Royal Dutch Airlines,PH-AOF,A330 203,https://hexdb.io/static/aircraft-images/PH-AOF-thumb.jpg,43.644699,-79.811075,7050,38.68807521203816,Sat May 17 22:14:09 2025
+c08852,Porter Airlines,C-GZQF,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.602595,-79.770094,5900,35.320055156015805,Sat May 17 20:52:30 2025
+a145b7,Delta Connection,N181PQ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.780063,-82.271438,34000,191.06050586030622,Sat May 17 19:52:20 2025
+c02cfc,WestJet,C-FRAX,737MAX 8,https://hexdb.io/static/aircraft-images/C-FRAX-thumb.jpg,43.031725,-81.477029,19375,166.26278733973544,Sat May 17 19:37:32 2025
+a28fb4,Flight Basic Services LLC,N264V,Falcon 2000LX S,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.627274,-80.139708,40000,120.31803482356922,Sat May 17 19:37:33 2025
+a3411f,Delta Air Lines,N309DU,A220 300,https://hexdb.io/static/aircraft-images/N309DU-thumb.jpg,42.458527,-79.838157,36000,134.85039447056778,Sat May 17 19:40:35 2025
+c02ebd,Air Canada,C-FRSE,787 9,https://hexdb.io/static/aircraft-images/C-FRSE-thumb.jpg,43.59668,-79.772559,5000,35.640292040549824,Sat May 17 21:47:06 2025
+a91536,United Airlines,N68453,737NG 924ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.470123,-80.038085,30000,134.06962900865184,Sat May 17 19:43:07 2025
+c0617a,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.712039,-79.543697,1975,14.999076955022504,Sat May 17 19:46:12 2025
+a5dee3,Alaska Airlines,N478AS,737NG 990ER/W,https://hexdb.io/static/aircraft-images/N478AS-thumb.jpg,42.688635,-80.700393,32000,126.75440464603457,Sat May 17 19:52:20 2025
+a3df1e,Delta Air Lines,N349DX,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.625929,-80.10662,31950,120.05094602210752,Sat May 17 19:46:12 2025
+c06738,Sunwing Airlines,C-GNCH,737NG 81D/W,https://hexdb.io/static/aircraft-images/C-GNCH-thumb.jpg,43.319697,-79.3653,11700,38.81047448393972,Sat May 17 19:46:12 2025
+c08863,Sunwing Airlines,C-GNCH,737NG 81D/W,https://hexdb.io/static/aircraft-images/C-GNCH-thumb.jpg,43.467035,-79.460253,9300,23.181736696544956,Sat May 17 19:47:15 2025
+a9f64b,American Eagle,N741AK,EMB-170 SU,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.595963,-80.155439,21500,123.20744255342146,Sat May 17 19:47:14 2025
+ab28d7,United Airlines,N818UA,A319 131,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.721221,-80.52014,33025,120.705129855169,Sat May 17 19:47:15 2025
+a5d68a,United Airlines,N47533,737MAX 9,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.627914,-80.156937,36000,120.47089538361622,Sat May 17 19:50:18 2025
+a46a7e,Delta Air Lines,N384DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.781265,-82.286474,35975,191.94207328933544,Sat May 17 20:06:19 2025
+c02ec1,Air Canada,C-FRSI,787 9,https://hexdb.io/static/aircraft-images/C-FRSI-thumb.jpg,42.946518,-81.685521,21050,174.53559283134354,Sat May 17 19:50:18 2025
+c0371f,WestJet,C-FUWS,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.601257,-79.757804,6125,34.24769355818186,Sat May 17 19:52:20 2025
+c010a8,Air Canada,C-FGHZ,787 9,https://hexdb.io/static/aircraft-images/C-FGHZ-thumb.jpg,43.523689,-79.763685,6925,37.04643346767103,Sat May 17 19:57:26 2025
+406ecd,Virgin Atlantic Airways,G-VMAP,787 9,https://hexdb.io/static/aircraft-images/G-VMAP-thumb.jpg,43.731171,-79.515722,2525,13.567282808419153,Sat May 17 19:55:24 2025
+a06a5a,Delta Air Lines,N126DU,A220 100,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.585056,-80.020454,36000,122.97958990366394,Sat May 17 19:57:26 2025
+c02cf1,Air Canada,C-FRAM,777 333ER,https://hexdb.io/static/aircraft-images/C-FRAM-thumb.jpg,43.559738,-79.831578,6450,41.587126819288066,Sat May 17 19:57:27 2025
+a21142,Air Canada,C-FRSI,787 9,https://hexdb.io/static/aircraft-images/C-FRSI-thumb.jpg,43.583741,-79.913635,9825,48.381777190380326,Sat May 17 20:04:15 2025
+ab31d7,Air Canada Express,C-FJZL,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.330963,-80.075291,16250,68.83746151390203,Sat May 17 19:57:27 2025
+c04ff7,Air Canada,C-GEHI,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.92157,-81.746585,23000,176.45908754909857,Sat May 17 19:59:36 2025
+a37842,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.649345,-80.713551,36000,128.56156731431025,Sat May 17 20:06:19 2025
+ad8b1d,Alaska Airlines,N972AK,737MAX 9,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.557171,-79.866518,32000,124.74891094443682,Sat May 17 20:02:38 2025
+a3f3ba,Soave Aviation LLC,N354AS,Challenger 350,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.749084,-80.053565,30175,108.39763492490505,Sat May 17 20:05:18 2025
+c01e1f,United Express,N757YX,EMB-175 LR,https://hexdb.io/static/aircraft-images/N757YX-thumb.jpg,42.877497,-79.891924,21300,93.49725293006122,Sun May 18 06:54:24 2025
+c05060,Air Canada,C-GELJ,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.462473,-80.726689,14500,119.91571507080394,Sat May 17 20:05:17 2025
+a449a2,United Airlines,N37561,737MAX 9,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.665085,-80.136962,34000,117.02819562112596,Sat May 17 20:06:19 2025
+c04c36,WestJet,C-GCWJ,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.51652,-81.488669,22425,188.32586732024515,Sat May 17 20:08:16 2025
+c01f52,WestJet,C-FLWJ,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.680058,-79.859815,7500,43.35298378607979,Sat May 17 20:12:54 2025
+c0174f,Air Canada,C-FIVM,777 333ER,https://hexdb.io/static/aircraft-images/C-FIVM-thumb.jpg,43.46224,-80.71106,16875,118.56129664995113,Sat May 17 20:10:49 2025
+aa3646,United Express,N757YX,EMB-175 LR,https://hexdb.io/static/aircraft-images/N757YX-thumb.jpg,43.167618,-80.801569,33000,123.75578025279391,Sat May 17 20:11:51 2025
+c0843a,Airmedic Inc,C-GYBX,PC-12 47E NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.505254,-80.451835,26000,96.30515508500795,Sat May 17 20:21:44 2025
+a7650b,Delta Air Lines,N576DN,A321 271NXSL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.779132,-82.266136,32000,190.68813991463992,Sat May 17 20:30:58 2025
+ac24c5,Southwest Airlines,N8816Q,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.627419,-80.144944,36000,120.36815080833809,Sat May 17 20:19:09 2025
+c0174d,Air Canada,C-FIVK,777 233LR,https://hexdb.io/static/aircraft-images/C-FIVK-thumb.jpg,43.595612,-79.745113,5100,33.230347867004866,Sat May 17 20:19:09 2025
+a3e917,Flexjet,N351FX,Phenom 300,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.476761,-80.199696,45000,133.94246824026735,Sat May 17 20:21:44 2025
+a923a8,United Airlines,N68822,737NG 924ER/W,https://hexdb.io/static/aircraft-images/N68822-thumb.jpg,42.54039,-80.162492,33000,128.13267358472274,Sat May 17 20:29:57 2025
+c005c5,Air Canada,C-FCEU,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.854126,-79.57027,4475,26.710730980045366,Sat May 17 20:30:58 2025
+a21127,American Eagle,N232NN,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.471863,-80.067548,34000,133.98018087144362,Sat May 17 20:32:02 2025
+a67f81,Delta Air Lines,N518DQ,A321 271NXSL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.629979,-80.204666,32025,120.90066200015774,Sat May 17 20:35:39 2025
+c08861,Porter Airlines,C-GZQU,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.730942,-79.51636,2525,13.604751741551858,Sat May 17 20:33:04 2025
+a9a397,Alaska Airlines,N720AL,737MAX 9,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.647529,-80.660024,34000,127.49888642622277,Sat May 17 20:39:12 2025
+c02eca,Air Canada,C-FRSR,787 9,https://hexdb.io/static/aircraft-images/C-FRSR-thumb.jpg,43.4621,-80.711844,14400,118.62751386314345,Sat May 17 20:34:36 2025
+a030a8,American Eagle,N111HQ,EMB-175 LR,https://hexdb.io/static/aircraft-images/N111HQ-thumb.jpg,42.487747,-80.031967,33000,132.35033451119025,Sat May 17 20:34:36 2025
+c01723,Air Canada,C-FITU,777 333ER,https://hexdb.io/static/aircraft-images/C-FITU-thumb.jpg,43.604876,-79.734126,4950,32.07572851912375,Sat May 17 20:35:39 2025
+c012b5,1769856 Ontario Inc,C-FHCE,PC-12 45,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.588303,-79.382416,2150,8.907672494646006,Sat May 17 20:35:39 2025
+c00dce,Flair Airlines,C-FFFX,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.693588,-79.570462,1450,16.861654230149693,Sat May 17 20:40:14 2025
+a2b0ed,United Airlines,N27246,737NG 824/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.50032,-80.224915,14075,76.56721108106171,Sat May 17 20:39:43 2025
+c040e8,WestJet,C-FYPB,737NG 8CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.462519,-80.734994,16575,120.63483987868133,Sat May 17 20:40:14 2025
+3949ec,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.996735,-81.248943,33000,150.46725488144335,Sat May 17 20:42:17 2025
+c0168e,SkyCare Air Ambulance,C-FIOB,Metro III,https://hexdb.io/static/aircraft-images/C-FIOB-thumb.jpg,43.500366,-79.983608,5925,55.971298271191394,Sat May 17 20:47:24 2025
+4cae29,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.95755,-81.343476,33000,154.79789818768782,Sat May 17 20:42:17 2025
+a6045d,United Airlines,N487UA,A320 232,https://hexdb.io/static/aircraft-images/N487UA-thumb.jpg,42.487198,-80.145014,33025,132.80575683458753,Sat May 17 20:44:48 2025
+abfac6,Southwest Airlines,N871HK,737MAX 8,https://hexdb.io/static/aircraft-images/N871HK-thumb.jpg,42.279419,-80.350321,33025,150.90809099457897,Sat May 17 20:44:49 2025
+c05eb6,Air Canada,C-GJWN,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.462967,-80.815621,16400,127.62577054371465,Sat May 17 20:47:23 2025
+a0b820,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.486832,-80.189646,35025,133.01460032757385,Sat May 17 20:47:24 2025
+a7b08d,Flexjet,N595FX,Challenger 350,https://hexdb.io/static/aircraft-images/N595FX-thumb.jpg,42.627465,-80.053732,45000,119.33031309752873,Sat May 17 20:49:56 2025
+a2bd48,FedEx Express,N276FE,767 300F,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.800733,-81.03324,34025,135.89041872754683,Sat May 17 21:02:47 2025
+a273f5,United Airlines,N25705,737NG 724/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.407646,-80.08503,37000,140.13833929256526,Sat May 17 20:55:32 2025
+0c605c,Caribbean Airlines,9Y-GUY,737MAX 8,https://hexdb.io/static/aircraft-images/9Y-GUY-thumb.jpg,43.332825,-79.373932,11725,37.31797796348233,Sat May 17 20:57:36 2025
+a1373d,Delta Air Lines,N178DN,767 332ER/W,https://hexdb.io/static/aircraft-images/N178DN-thumb.jpg,42.62915,-80.186712,34000,120.737890874253,Sat May 17 20:58:39 2025
+c060ba,Porter Airlines,C-GKQJ,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.458469,-80.419987,13175,93.53316445541135,Sat May 17 20:58:07 2025
+c06aab,Air Canada Express,C-GJZS,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.292084,-80.104001,10275,72.50645635368294,Sat May 17 21:06:55 2025
+c03cf1,Air Canada,C-FXCA,767 375ERBDSF,https://hexdb.io/static/aircraft-images/C-FXCA-thumb.jpg,43.307174,-79.357649,11725,40.24000420262808,Sat May 17 21:02:47 2025
+aa2ded,Flair Airlines,C-FLHI,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.989176,-81.628156,20000,173.66594119407634,Sat May 17 21:24:51 2025
+a09239,NetJets,N186QS,Global 7500,https://hexdb.io/static/aircraft-images/N186QS-thumb.jpg,42.650482,-80.748451,43000,129.28596531177814,Sat May 17 21:13:33 2025
+aa2bc5,United Airlines,N75436,737NG 924ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.571976,-80.102941,33000,124.85637914958184,Sat May 17 21:05:52 2025
+a4c9d5,JetBlue Airways,N4076J,A321 271NXSL(LR),https://hexdb.io/static/aircraft-images/N4076J-thumb.jpg,42.317427,-80.078132,34950,148.90572930974136,Sat May 17 21:06:23 2025
+c01dcb,Flair Airlines,C-FLHI,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.04187,-81.451679,19200,165.0778488902869,Sat May 17 21:06:23 2025
+c00e14,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.574844,-79.768407,5225,35.74671571234328,Sat May 17 21:06:55 2025
+a15865,NetJets,N186QS,Global 7500,https://hexdb.io/static/aircraft-images/N186QS-thumb.jpg,42.650482,-80.748451,43000,129.28596531177814,Sat May 17 21:13:33 2025
+a448fa,United Airlines,N37518,737MAX 9,https://hexdb.io/static/aircraft-images/N37518-thumb.jpg,42.651352,-80.77292,32000,129.8052431187872,Sat May 17 21:17:40 2025
+a21bea,Delta Connection,N235JQ,EMB-175 LR,https://hexdb.io/static/aircraft-images/N235JQ-thumb.jpg,42.472074,-80.069701,34000,133.96599397361226,Sat May 17 21:12:01 2025
+a7816a,Air Canada Rouge,C-GBIJ,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,41.339272,-80.614492,38025,235.22294315903534,Sat May 17 21:17:40 2025
+c06a7b,Air Transat,C-GOIK,A321 271NXSL,https://hexdb.io/static/aircraft-images/C-GOIK-thumb.jpg,43.565689,-79.774092,5500,36.478671395543756,Sat May 17 21:15:37 2025
+c030a6,Air Canada,C-FSKZ,737MAX 8,https://hexdb.io/static/aircraft-images/C-FSKZ-thumb.jpg,43.113564,-81.006513,34000,137.431451794968,Sat May 17 21:24:20 2025
+aa7f06,United Airlines,N77576,737MAX 9,https://hexdb.io/static/aircraft-images/N77576-thumb.jpg,42.629105,-80.18434,36000,120.71148910696074,Sat May 17 21:17:40 2025
+c08934,Air Canada Express,C-GJIZ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.244655,-79.673898,14975,52.42291057294404,Sat May 17 21:22:16 2025
+c04826,Air Canada Rouge,C-GBIJ,A319 114,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,41.339272,-80.614492,38025,235.22294315903534,Sat May 17 21:16:38 2025
+a71db6,Flexjet,N558FX,Challenger 350,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.166397,-79.975912,45000,164.7925368184217,Sat May 17 21:17:40 2025
+a423d7,Delta Air Lines,N366NW,A320 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.264359,-80.167236,30450,153.58267918734578,Sat May 17 21:17:40 2025
+a023a5,American Airlines,N108NN,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.111201,-79.900562,35000,171.17482753957063,Sat May 17 21:27:55 2025
+aca6c0,American Airlines,N914NN,737NG 823/W,https://hexdb.io/static/aircraft-images/N914NN-thumb.jpg,43.081675,-80.433132,36000,101.4453419124459,Sat May 17 21:25:53 2025
+aa55bd,American Eagle,N765ST,EMB-170 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.527527,-80.021792,35000,128.4777575204039,Sat May 17 21:19:44 2025
+ad2445,JetBlue Airways,N946JL,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.417049,-80.078515,36000,139.23603058813111,Sat May 17 21:20:45 2025
+abb624,Southwest Airlines,N8539V,737NG 800/W,https://hexdb.io/static/aircraft-images/N8539V-thumb.jpg,41.55965,-80.156761,27975,225.94246119133464,Sat May 17 21:22:16 2025
+4b191c,Swiss International Air Lines,HB-JNG,777 300ER,https://hexdb.io/static/aircraft-images/HB-JNG-thumb.jpg,42.409275,-80.272054,33000,139.9611926750256,Sat May 17 21:23:49 2025
+a6b0bd,Delta Air Lines,N530DE,A321 271NXSL,https://hexdb.io/static/aircraft-images/N530DE-thumb.jpg,42.673965,-81.284658,32025,143.36362676643407,Sat May 17 21:35:04 2025
+4d22a8,Maleth-Aero AOC Ltd,9H-MFS,A330 203,https://hexdb.io/static/aircraft-images/9H-MFS-thumb.jpg,42.155332,-79.864474,41025,166.7449829369629,Sat May 17 21:24:52 2025
+a96857,Spirit Airlines,N705NK,A321 271NXSL,https://hexdb.io/static/aircraft-images/N705NK-thumb.jpg,41.77677,-80.334778,32975,198.81696240471373,Sat May 17 21:24:51 2025
+c0614d,WestJet,C-GKWA,737NG 8CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.230689,-79.346989,13400,48.78073454128603,Sat May 17 21:24:52 2025
+c084a3,Air Canada Rouge,C-GYFY,A321 211,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.712173,-79.543507,1950,14.987516504680473,Sat May 17 21:25:53 2025
+c0884e,Porter Airlines,C-GZQB,EMB-195 E2,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.463636,-80.837729,20450,129.5543947916246,Sat May 17 21:27:55 2025
+c01e28,Air Canada,C-FLKX,A321 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.307826,-79.356406,11975,40.17505766176337,Sat May 17 21:29:57 2025
+4cc577,Air Canada,C-FLKX,A321 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.377914,-79.401579,11100,32.28760610789047,Sat May 17 21:30:59 2025
+780218,Cathay Pacific Airways,B-LIB,747 467ERF,https://hexdb.io/static/aircraft-images/B-LIB-thumb.jpg,43.889923,-79.6298,35000,33.42174595093002,Sat May 17 21:30:59 2025
+a34aa0,Prime Air,N311AZ,767 338ERBDSF,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.464172,-79.934963,36000,134.42978995361472,Sat May 17 21:32:00 2025
+aa141e,American Eagle,N749BM,EMB-170 SE,https://hexdb.io/static/aircraft-images/N749BM-thumb.jpg,42.613129,-79.992641,37000,120.07431351675326,Sat May 17 21:32:01 2025
+c05bc8,Air Canada Rouge,C-GITR,A319 112,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.406906,-79.834588,27975,140.25108315607318,Sat May 17 21:47:06 2025
+c0653f,Air Canada,C-GMIW,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.463791,-80.86391,19200,131.82994691594817,Sat May 17 21:35:03 2025
+aa60bb,American Eagle,N768RD,EMB-170 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.655655,-79.704812,21000,113.55358474270695,Sat May 17 21:35:04 2025
+a014c9,American Airlines,N104NN,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.651859,-80.783046,34000,130.01886180773235,Sat May 17 21:44:01 2025
+780cb6,Air China,B-2485,747 89L,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.845291,-80.083817,37000,68.14536338026439,Sat May 17 21:37:22 2025
+a35c0b,JetBlue Airways,N3152J,A220 300,https://hexdb.io/static/aircraft-images/N3152J-thumb.jpg,42.599487,-80.107186,37000,122.41470840631284,Sat May 17 21:37:53 2025
+a40027,American Airlines,N357PV,737NG 800/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.598938,-79.990768,37000,121.41629266640513,Sat May 17 21:39:54 2025
+a3be8f,Delta Air Lines,N340NW,A320 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.367905,-80.274291,32050,143.5620100795447,Sat May 17 21:41:26 2025
+acf69b,Delta Connection,N934XJ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.51169,-80.222423,30000,131.00813162396378,Sat May 17 21:44:01 2025
+a61f05,Alaska Airlines,N494AS,737NG 990ER/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.104645,-80.185401,37025,168.9237932632728,Sat May 17 21:41:27 2025
+a3696e,Delta Air Lines,N319NB,A319 114,https://hexdb.io/static/aircraft-images/N319NB-thumb.jpg,42.290863,-80.334715,32975,150.0237898995393,Sat May 17 21:42:58 2025
+c07996,Air Transat,C-GUBD,A330 243,https://hexdb.io/static/aircraft-images/C-GUBD-thumb.jpg,43.548082,-79.788339,7000,38.20815568901248,Sat May 17 21:44:33 2025
+a75dc7,FedEx Express,N574FE,MD-11 F,https://hexdb.io/static/aircraft-images/N574FE-thumb.jpg,43.00505,-80.770961,32775,122.35373435442465,Sat May 17 21:52:46 2025
+a13af4,Delta Air Lines,N179DN,767 332ER/W,https://hexdb.io/static/aircraft-images/N179DN-thumb.jpg,42.629745,-80.202318,36000,120.8893491697777,Sat May 17 21:44:32 2025
+a8fd2c,American Eagle,N679AE,ERJ-145 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.567506,-79.991136,31000,124.44512845103685,Sat May 17 21:44:32 2025
+aa5a0e,United Express,N766YX,EMB-175 LR,https://hexdb.io/static/aircraft-images/N766YX-thumb.jpg,43.022827,-81.268871,33000,152.52456291689808,Sat May 17 21:44:33 2025
+c038aa,Air Canada,C-FVLX,787 9,https://hexdb.io/static/aircraft-images/C-FVLX-thumb.jpg,43.659715,-79.684492,2400,27.054055636085554,Sat May 17 21:47:05 2025
+a4423a,United Airlines,N37367,737MAX 8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.486511,-79.786148,36000,131.823273412167,Sat May 17 21:47:06 2025
+aa5078,Avianca,N764AV,A320 251NSL,https://hexdb.io/static/aircraft-images/N764AV-thumb.jpg,43.410101,-79.422586,10450,28.825119782624938,Sat May 17 21:52:44 2025
+a35854,JetBlue Airways,N3142J,A220 300,https://hexdb.io/static/aircraft-images/N3142J-thumb.jpg,42.466507,-79.975974,34000,134.27893512534,Sat May 17 21:52:44 2025
+acfc05,Delta Air Lines,N936AT,717 231,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,41.80957,-79.9251,31000,203.19461914753234,Sat May 17 21:52:45 2025
+c06aaa,Air Transat,C-GOKF,A321 271NXSL,https://hexdb.io/static/aircraft-images/C-GOKF-thumb.jpg,43.541984,-79.508645,8350,17.570935762173246,Sat May 17 21:52:46 2025
+a070d7,United Airlines,N12754,737NG 7V3/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.048828,-81.43456,23000,164.26323274973183,Sat May 17 21:53:18 2025
+adca0b,21st Century Fox America Inc,N988NC,G650 ER,https://hexdb.io/static/aircraft-images/N988NC-thumb.jpg,42.66359,-80.606881,43000,125.63205969348115,Sat May 17 21:56:54 2025
+aa6533,United Express,N769YX,EMB-175 LR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.326096,-79.369961,11950,38.079855307889936,Sat May 17 21:54:50 2025
+740827,Royal Jordanian Airlines,JY-BAG,787 8,https://hexdb.io/static/aircraft-images/JY-BAG-thumb.jpg,43.462007,-82.015686,36975,232.4121625714584,Sat May 17 21:55:52 2025
+a126c9,United Airlines,N17306,737MAX 8,https://hexdb.io/static/aircraft-images/N17306-thumb.jpg,42.62677,-80.130033,40000,120.24735236947035,Sat May 17 21:56:54 2025
+aa7e79,United Airlines,N77535,737NG 824/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,41.352127,-80.547485,37000,236.47252175345037,Sat May 17 21:59:26 2025
+c08095,WestJet,C-GWSA,737NG 8CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.12306,-79.373736,15525,60.636620440778565,Sat May 17 21:59:26 2025
+78926a,Cathay Pacific Airways,B-LXQ,A350 1041,https://hexdb.io/static/aircraft-images/B-LXQ-thumb.jpg,43.324814,-81.528838,39000,183.93236315504276,Sat May 17 22:00:58 2025
+3949e5,Air France,F-GSPF,777 228ER,https://hexdb.io/static/aircraft-images/F-GSPF-thumb.jpg,42.556503,-79.9653,34875,125.35320882605035,Sat May 17 22:01:29 2025
+ace1af,Delta Connection,N929XJ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.187163,-81.645682,30725,186.31816248659834,Sat May 17 22:09:03 2025
+758525,Philippine Airlines,RP-C3501,A350 941,https://hexdb.io/static/aircraft-images/RP-C3501-thumb.jpg,44.018213,-79.716731,41000,49.65490923949916,Sat May 17 22:09:33 2025
+a00d5b,American Airlines,N102NN,A321 231SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.414815,-79.891492,34000,139.42685632899597,Sat May 17 22:10:34 2025
+c01551,WestJet,C-FIBW,737NG 7CT/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.321518,-79.366895,11650,38.60105309005182,Sat May 17 22:10:35 2025
+c00e5c,Flair Airlines,C-FFLJ,737NG 86J/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.692261,-81.024362,26375,151.27784915063643,Sat May 17 22:17:47 2025
+c02494,WestJet,C-FNWD,737MAX 8,https://hexdb.io/static/aircraft-images/C-FNWD-thumb.jpg,43.332825,-79.373985,12000,37.31780534470267,Sat May 17 22:14:09 2025
+899032,EVA Air,B-16729,777 300ER,https://hexdb.io/static/aircraft-images/B-16729-thumb.jpg,43.73085,-79.516169,2500,13.584120024224784,Sat May 17 22:15:40 2025
+c03261,Air Canada,C-FTCA,767 375ERBDSF,https://hexdb.io/static/aircraft-images/C-FTCA-thumb.jpg,43.68341,-80.129307,15075,68.2988846912794,Sat May 17 22:20:51 2025
+ac1547,American Airlines,N878NN,737NG 823/W,https://hexdb.io/static/aircraft-images/N878NN-thumb.jpg,42.88583,-81.958989,31000,185.80583549737423,Sat May 17 22:16:42 2025
+c07982,Cargojet Airways,C-GUAJ,767 35EERBCF,https://hexdb.io/static/aircraft-images/C-GUAJ-thumb.jpg,43.539749,-80.520107,21050,102.53622383049414,Sat May 17 22:21:24 2025
+a3b4c8,Delta Air Lines,N338NW,A320 212,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.427849,-80.263175,22375,138.3532287093124,Sat May 17 22:17:46 2025
+ab3007,Rich Aviation Inc,N82RP,Falcon 7X,https://hexdb.io/static/aircraft-images/N82RP-thumb.jpg,42.227783,-79.930531,18925,158.71136975334474,Sat May 17 22:17:47 2025
+ac0e63,United Airlines,N876UA,A319 132,https://hexdb.io/static/aircraft-images/N876UA-thumb.jpg,43.469742,-81.86488,31000,219.58159109954497,Sat May 17 22:17:47 2025
+c01c91,Unknown Airline,Unknown Registration,Unknown Aircraft Type,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.34848,-79.384397,11325,35.55324504669378,Sat May 17 22:20:51 2025
+ab853f,Royal Air Freight Inc,N841TF,Learjet 35 A,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.957916,-79.440095,35800,79.0620626575686,Sat May 17 22:21:23 2025
+c055d8,Air Canada Express,C-GGNF,DHC-8 402 NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.644492,-79.319916,1850,7.039970517905055,Sat May 17 22:21:24 2025
+a41f37,Delta Air Lines,N365DN,A321 211SL,https://hexdb.io/static/aircraft-images/N365DN-thumb.jpg,42.715622,-80.702196,30000,125.82131953840681,Sun May 18 06:49:17 2025
+ad6ecd,Avianca El Salvador,N965AV,A320 251NSL,https://hexdb.io/static/aircraft-images/N965AV-thumb.jpg,43.481598,-79.470052,8950,21.892521431524145,Sun May 18 06:49:18 2025
+ab48bf,Delta Connection,N826SK,CRJ 900 LR NG,https://hexdb.io/static/aircraft-images/N826SK-thumb.jpg,42.417206,-79.902129,26000,139.1821878398119,Sun May 18 06:51:19 2025
+a8c32a,American Airlines,N664AW,A320 232,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.285947,-81.078775,27975,146.1636698725259,Sun May 18 07:02:33 2025
+a91ab7,Spirit Airlines,N686NK,A321 231SL,https://hexdb.io/static/aircraft-images/N686NK-thumb.jpg,42.472321,-80.071605,36000,133.94776155925874,Sun May 18 06:52:21 2025
+aa0292,Thunderun Aviation,N744N,Learjet 31 A,https://hexdb.io/static/aircraft-images/N744N-thumb.jpg,42.208961,-80.164362,16150,158.9454392566755,Sun May 18 06:53:53 2025
+a39113,Delta Connection,N329PQ,CRJ 900 LR NG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,43.024649,-80.542799,28575,109.33409535303943,Sun May 18 07:02:33 2025
+a3f7b8,Delta Air Lines,N355DN,A321 211SL,https://hexdb.io/static/aircraft-images/N355DN-thumb.jpg,43.549255,-80.224659,34000,76.2893796118597,Sun May 18 07:02:33 2025
+a49f87,United Airlines,N39726,737NG 724/W,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.736038,-79.890768,22400,107.0530424726646,Sun May 18 06:57:57 2025
+c0636c,Delta Air Lines,N355DN,A321 211SL,https://hexdb.io/static/aircraft-images/N355DN-thumb.jpg,43.53272,-80.153438,34000,70.08517993688294,Sun May 18 07:01:31 2025
+780daa,China Southern Cargo,B-2028,777 F1B,https://hexdb.io/static/aircraft-images/B-2028-thumb.jpg,43.727215,-79.586727,1825,19.364320498073855,Sun May 18 07:00:31 2025
+a40694,Delta Air Lines,N359DN,A321 211SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png,42.511829,-80.234368,35250,131.06464674144956,Sun May 18 07:01:31 2025
+010154,United Airlines,N68822,737NG 924ER/W,https://hexdb.io/static/aircraft-images/N68822-thumb.jpg,42.965195,-79.436135,36000,78.24279075417792,Sun May 18 07:01:31 2025
+a762cc,United Parcel Service,N575UP,747 44AF,https://hexdb.io/static/aircraft-images/N575UP-thumb.jpg,43.987015,-79.727975,38000,47.693212928701904,Sun May 18 07:02:33 2025
+c01729,Air Canada,C-FIUA,777 233LR,https://hexdb.io/static/aircraft-images/C-FIUA-thumb.jpg,43.729403,-79.518258,2400,13.668383868427263,Sun May 18 07:02:33 2025
