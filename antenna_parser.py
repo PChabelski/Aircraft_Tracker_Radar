@@ -229,6 +229,7 @@ while True:
                         new = list(set(new_set) - set(current_set))
                         temp_new = current_set.copy()
 
+                        # To-do: scrub this to make it a bit cleaner!
                         for add_el in new:
                             temp_new.append(add_el)
                         if temp_new != current_set:
