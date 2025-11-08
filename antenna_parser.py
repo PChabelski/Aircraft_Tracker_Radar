@@ -1,5 +1,6 @@
 # import urllib library
 from urllib.request import urlopen
+import sys
 import time
 import json
 import math
@@ -123,7 +124,7 @@ while True:
                             airline = aircraft_dictionary[hexcode]['airline']
                             registration = aircraft_dictionary[hexcode]['registration']
                             aircraft = aircraft_dictionary[hexcode]['aircraft']
-                            aircraft_thumb = aircraft_dictionary[hexcode]['aircraft_thumbnail']
+                            ICAOTypeCode = aircraft_dictionary[hexcode]['aircraft_icao']
                         else:
                             #print(f'[{time.ctime()}] {hexcode} NOT found in file list')
                             new_flight_status = True
@@ -135,24 +136,12 @@ while True:
                                 airline = aircraft_data['RegisteredOwners']
                                 registration = aircraft_data['Registration']
                                 aircraft = aircraft_data['Type']
-                                thumb_url = f'https://hexdb.io/hex-image-thumb?hex={hexcode}'
-                                aircraft_thumb_encoded = requests.get(thumb_url).content
-                                aircraft_thumb = aircraft_thumb_encoded.decode("utf-8")
-                                # If we can't find an image, we will default to a generic image
-                                if aircraft_thumb == 'n/a':
-                                    aircraft_thumb = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png'
-                                else:
-                                    try:
-                                        aircraft_thumb = 'https://' + aircraft_thumb.split('//')[1]
-                                    except:
-                                        # sometimes this breaks; just default when it does
-                                        aircraft_thumb = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png'
-
+                                ICAOTypeCode = aircraft_data['ICAOTypeCode']
                             except KeyError:
                                 airline = 'Unknown Airline'
                                 registration = 'Unknown Registration'
                                 aircraft = 'Unknown Aircraft Type'
-                                aircraft_thumb = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/248px-Plane_icon_nose_up.svg.png'
+                                ICAOTypeCode = 'Unknown ICAOTypeCode'
 
                         # extract whatever other juicy data is available
                         try:
@@ -255,15 +244,15 @@ while True:
                         temp_new = []
 
                         flight_register[hexcode] = {
-                            "airline": airline,
-                            "registration": registration,
-                            "aircraft": aircraft,
-                            "aircraft_thumbnail": aircraft_thumb,
+                            # "airline": airline,
+                            # "registration": registration,
+                            # "aircraft": aircraft,
+                            # "aircraft_icao": ICAOTypeCode,
                             "latitude": lat,
                             "longitude": lon,
                             "altitude": altitude,
                             "distance": Distance,
-                            "first_seen_time": first_seen_time,
+                            "latest_registration_time": first_seen_time,
                         }
 
                     else:
@@ -277,26 +266,26 @@ while True:
                         #print(f'[{time.ctime()}] {hexcode} found in aircraft dictionary - only update if new distance is greater')
                         old_distance = aircraft_dictionary[hexcode]['distance']
                         if Distance > old_distance:
-                            print(f'[{time.ctime()}] {hexcode} New distance {Distance}km is greater than previous distance {old_distance}km, update data!')
+                            #print(f'[{time.ctime()}] {hexcode} New distance {Distance}km is greater than previous distance {old_distance}km, update data!')
                             aircraft_dictionary[hexcode]['distance'] = Distance
-                            aircraft_dictionary[hexcode]['airline'] = airline
-                            aircraft_dictionary[hexcode]['registration'] = registration
-                            aircraft_dictionary[hexcode]['aircraft'] = aircraft
-                            aircraft_dictionary[hexcode]['aircraft_thumbnail'] = aircraft_thumb
+                            # aircraft_dictionary[hexcode]['airline'] = airline
+                            # aircraft_dictionary[hexcode]['registration'] = registration
+                            # aircraft_dictionary[hexcode]['aircraft'] = aircraft
+                            # aircraft_dictionary[hexcode]['aircraft_icao'] = ICAOTypeCode
                             aircraft_dictionary[hexcode]['latitude'] = lat
                             aircraft_dictionary[hexcode]['longitude'] = lon
                             aircraft_dictionary[hexcode]['altitude'] = altitude
-                            aircraft_dictionary[hexcode]['first_seen_time'] = first_seen_time
+                            aircraft_dictionary[hexcode]['latest_registration_time'] = first_seen_time
                             with open(f"aircraft_dictionary.json", 'w') as file:
                                 json.dump(aircraft_dictionary, file)
-                                print(f'[{time.ctime()}] {hexcode} updated aircraft dictionary successfully!')
+                                #print(f'[{time.ctime()}] {hexcode} updated aircraft dictionary successfully!')
                     else:
-                        print(f'[{time.ctime()}] {hexcode} not found in aircraft dictionary')
+                        #print(f'[{time.ctime()}] {hexcode} not found in aircraft dictionary')
                         aircraft_dictionary.update(flight_register)
                         # Update the dictionary!
                         with open(f"aircraft_dictionary.json", 'w') as file:
                             json.dump(aircraft_dictionary, file)
-                            print(f'[{time.ctime()}] {hexcode} updated aircraft dictionary successfully!')
+                            #print(f'[{time.ctime()}] {hexcode} updated aircraft dictionary successfully!')
 
         else:  # sleep for a few seconds before pinging again
             print(f'[{time.ctime()}] Nothing on radar ...')
@@ -305,11 +294,15 @@ while True:
     except Exception as e:
         str_error = str(e)
         extra_info = str(traceback.format_exc())
+        exc_type, exc_value, exc_traceback = sys.exc_info()
+        tb_info = traceback.extract_tb(exc_traceback)
+        filename, lineno, func_name, text = tb_info[-1]  # Get the last frame for the error line
 
         time_wait = 5
         fail_counter += 1
         err = open('errors.txt', 'a')
-        err.write(f'[{time.ctime()}] <{hexcode}> {e} {extra_info} {fail_counter} times in a row\n')
+        #err.write(f'[{time.ctime()}] <{hexcode}> {e} {fail_counter} times in a row\n')
+        err.write(f'[{time.ctime()}] Error occurred in file: {filename}, line: {lineno}, function: {func_name} <{hexcode}> {e} {fail_counter} times in a row\n')
         err.close()
         if fail_counter % 10 == 0:
             print(f'[{time.ctime()}] !!! Had an error!!!\n {e} {fail_counter} times in a row')
