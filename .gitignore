@@ -11,3 +11,8 @@ errors.txt
 private/
 Aircraft_Register.csv
 aircraft_dictionary.json
+tracked_hexes/
+flights.db
+errors.log
+tracker.log
+data/
